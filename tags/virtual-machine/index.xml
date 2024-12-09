@@ -8,6 +8,7 @@
     <language>zh-cn</language>
     <copyright>© 2020-2024 Wenyi</copyright>
     <lastBuildDate>Tue, 29 Mar 2022 13:30:00 +0000</lastBuildDate><atom:link href="https://blog.wenyi.org/tags/virtual-machine/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>解决 VMware 虚拟机运行时 “内部错误” 问题</title>
       <link>https://blog.wenyi.org/posts/vmware-internal-errors/</link>
