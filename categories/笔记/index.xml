@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>笔记 on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/categories/%E7%AC%94%E8%AE%B0/</link>
+    <link>http://localhost:1313/categories/%E7%AC%94%E8%AE%B0/</link>
     <description>Recent content in 笔记 on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Fri, 26 Feb 2021 05:12:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Feb 2021 05:12:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>修改 Github 用户名</title>
-      <link>https://ejhu.com/posts/change-github-username/</link>
+      <link>http://localhost:1313/posts/change-github-username/</link>
       <pubDate>Fri, 26 Feb 2021 05:12:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/change-github-username/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/change-github-username/cover.webp" />
+      <guid>http://localhost:1313/posts/change-github-username/</guid>
+      <description>&lt;p&gt;最近想到之前 Github 用户名设置的有点长，不方便输入和分享，于是最近想要修改Github 用户名。下面说一下 Github 用户名修改方法。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/change-github-username/cover.webp" />
     </item>
     
   </channel>

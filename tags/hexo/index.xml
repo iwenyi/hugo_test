@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hexo on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/hexo/</link>
+    <link>http://localhost:1313/tags/hexo/</link>
     <description>Recent content in Hexo on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Sat, 04 Sep 2021 14:05:09 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 14:05:09 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hexo 点击文章变成了下载</title>
-      <link>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
+      <link>http://localhost:1313/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
       <pubDate>Sat, 04 Sep 2021 14:05:09 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/cover.webp" />
+      <guid>http://localhost:1313/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;问题 
+    &lt;div id=&#34;%E9%97%AE%E9%A2%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%97%AE%E9%A2%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;最近我在修改 Hexo 的时候遇到了一个问题，部署到 Github 后访问显示这样：&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hexo-redirecting-articles-has-turned-into-downloads/cover.webp" />
     </item>
     
   </channel>

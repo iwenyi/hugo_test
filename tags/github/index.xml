@@ -2,61 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/github/</link>
+    <link>http://localhost:1313/tags/github/</link>
     <description>Recent content in Github on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Sat, 27 Feb 2021 04:31:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Feb 2021 04:31:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gitalk 评论出错</title>
-      <link>https://ejhu.com/posts/gitalk-comment-error/</link>
+      <link>http://localhost:1313/posts/gitalk-comment-error/</link>
       <pubDate>Sat, 27 Feb 2021 04:31:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/gitalk-comment-error/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/gitalk-comment-error/cover.webp" />
+      <guid>http://localhost:1313/posts/gitalk-comment-error/</guid>
+      <description>&lt;p&gt;我昨天发现了一个问题，就是更改了用户名后 Gitalk 评论出错，无法加载评论（&lt;strong&gt;Error: Request failed with status code 403&lt;/strong&gt;）。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/gitalk-comment-error/cover.webp" />
     </item>
     
     <item>
       <title>修改 Github 用户名</title>
-      <link>https://ejhu.com/posts/change-github-username/</link>
+      <link>http://localhost:1313/posts/change-github-username/</link>
       <pubDate>Fri, 26 Feb 2021 05:12:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/change-github-username/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/change-github-username/cover.webp" />
+      <guid>http://localhost:1313/posts/change-github-username/</guid>
+      <description>&lt;p&gt;最近想到之前 Github 用户名设置的有点长，不方便输入和分享，于是最近想要修改Github 用户名。下面说一下 Github 用户名修改方法。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/change-github-username/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (4)</title>
-      <link>https://ejhu.com/posts/website-log-four/</link>
+      <link>http://localhost:1313/posts/website-log-four/</link>
       <pubDate>Wed, 17 Feb 2021 15:14:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-four/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-four/cover.webp" />
+      <guid>http://localhost:1313/posts/website-log-four/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第四篇文章。
+谈一下评论功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网站搭建好后，可以添加评论系统与访客互动。我写文章用的是 Gridea，下面以&lt;strong&gt;Gridea+Gitalk&lt;/strong&gt; 为例搭建评论系统。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/website-log-four/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (3)</title>
-      <link>https://ejhu.com/posts/website-log-three/</link>
+      <link>http://localhost:1313/posts/website-log-three/</link>
       <pubDate>Wed, 10 Feb 2021 07:20:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-three/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-three/cover.webp" />
+      <guid>http://localhost:1313/posts/website-log-three/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第三篇文章。
+谈一下图床。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;图床是用来存放文章图片的，所以图床的访问速度是很重要的。第三方的免费图床不太稳定，万一哪天关停了服务，会很麻烦的。所以自己搭图床有保障，比较稳定。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/website-log-three/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (1)</title>
-      <link>https://ejhu.com/posts/website-log-one/</link>
+      <link>http://localhost:1313/posts/website-log-one/</link>
       <pubDate>Fri, 01 Jan 2021 14:33:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-one/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-one/cover.webp" />
+      <guid>http://localhost:1313/posts/website-log-one/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第一篇文章。
+建网站需要有&lt;strong&gt;域名&lt;/strong&gt;和&lt;strong&gt;主机/空间/服务器&lt;/strong&gt;。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/website-log-one/cover.webp" />
     </item>
     
   </channel>

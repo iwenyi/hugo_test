@@ -2,31 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CDN on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/cdn/</link>
+    <link>http://localhost:1313/tags/cdn/</link>
     <description>Recent content in CDN on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 14:31:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/cdn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jun 2021 14:31:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cdn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>jsDelivr 加速 Github 资源</title>
-      <link>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</link>
+      <link>http://localhost:1313/posts/jsdelivr-accelerated-github-resources/</link>
       <pubDate>Sun, 06 Jun 2021 14:31:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/jsdelivr-accelerated-github-resources/cover.webp" />
+      <guid>http://localhost:1313/posts/jsdelivr-accelerated-github-resources/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
+    &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BB%8B%E7%BB%8D&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;CDN 的全称是 Content Delivery Network，即&lt;a href=&#34;https://baike.baidu.com/item/%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C/4034265&#34; target=&#34;_blank&#34;&gt;内容分发网络&lt;/a&gt;。CDN 是构建在现有网络基础之上的智能虚拟网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN 的关键技术主要有内容存储和分发技术。&lt;a href=&#34;https://baike.baidu.com/item/CDN&#34; target=&#34;_blank&#34;&gt;（百度百科）&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jsdelivr-accelerated-github-resources/cover.webp" />
     </item>
     
     <item>
       <title>jsDelivr 加速 Github 资源</title>
-      <link>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</link>
+      <link>http://localhost:1313/posts/jsdelivr-accelerated-github-resources/</link>
       <pubDate>Sun, 06 Jun 2021 14:31:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/jsdelivr-accelerated-github-resources/cover.webp" />
+      <guid>http://localhost:1313/posts/jsdelivr-accelerated-github-resources/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
+    &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BB%8B%E7%BB%8D&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;CDN 的全称是 Content Delivery Network，即&lt;a href=&#34;https://baike.baidu.com/item/%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C/4034265&#34; target=&#34;_blank&#34;&gt;内容分发网络&lt;/a&gt;。CDN 是构建在现有网络基础之上的智能虚拟网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN 的关键技术主要有内容存储和分发技术。&lt;a href=&#34;https://baike.baidu.com/item/CDN&#34; target=&#34;_blank&#34;&gt;（百度百科）&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/jsdelivr-accelerated-github-resources/cover.webp" />
     </item>
     
   </channel>
