@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>USB Flash Drive on Wenyi&#39;s Blog</title>
-    <link>http://localhost:1313/tags/usb-flash-drive/</link>
-    <description>Recent content in USB Flash Drive on Wenyi&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Mon, 11 Jul 2022 13:51:05 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/usb-flash-drive/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>USB Flash Drive - 标签 - Wenyi&#39;s Blog</title>
+    <link>https://blog.wenyi.org/tags/usb-flash-drive/</link>
+    <description>Wenyi&#39;s Blog</description>
+    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 11 Jul 2022 13:51:05 +0000</lastBuildDate>
+    <atom:link href="https://blog.wenyi.org/tags/usb-flash-drive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>U 盘启动盘恢复为普通 U 盘</title>
-      <link>http://localhost:1313/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</link>
+      <link>https://blog.wenyi.org/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</link>
       <pubDate>Mon, 11 Jul 2022 13:51:05 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</guid>
-      <description>&lt;p&gt;近使用 U 盘安装系统，制作系统启动盘。安装完系统后，发现 U 盘中 EFI 分区，需要把它删掉。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/cover.webp" />
+      <guid>https://blog.wenyi.org/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</guid>
+      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      <description>&lt;p&gt;近使用 U 盘安装系统，制作系统启动盘。安装完系统后，发现 U 盘中 EFI 分区，需要把它删掉。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;首先使用快捷键 Win+R，输入 cmd 打开命令提示符；&lt;/li&gt;&#xA;&lt;li&gt;然后输入 diskpart；&lt;/li&gt;&#xA;&lt;li&gt;输入之后会显示磁盘列表，通常电脑的磁盘为 0，U 盘为 1；&lt;/li&gt;&#xA;&lt;li&gt;接下来输入 sel disk 1；&lt;/li&gt;&#xA;&lt;li&gt;最后输入 clean，U 盘恢复为普通 U 盘了。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

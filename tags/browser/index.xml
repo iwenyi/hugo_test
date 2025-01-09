@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Browser on Wenyi&#39;s Blog</title>
-    <link>http://localhost:1313/tags/browser/</link>
-    <description>Recent content in Browser on Wenyi&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Tue, 09 Mar 2021 05:58:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/browser/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Browser - 标签 - Wenyi&#39;s Blog</title>
+    <link>https://blog.wenyi.org/tags/browser/</link>
+    <description>Wenyi&#39;s Blog</description>
+    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 09 Mar 2021 05:58:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.wenyi.org/tags/browser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firefox 翻译扩展</title>
-      <link>http://localhost:1313/posts/firefox-translation-extension/</link>
+      <link>https://blog.wenyi.org/posts/firefox-translation-extension/</link>
       <pubDate>Tue, 09 Mar 2021 05:58:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/firefox-translation-extension/</guid>
-      <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firefox-translation-extension/cover.webp" />
+      <guid>https://blog.wenyi.org/posts/firefox-translation-extension/</guid>
+      <category domain="https://blog.wenyi.org/categories/%E5%88%86%E4%BA%AB/">分享</category>
+      <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;&#xA;&lt;p&gt;现在有许多浏览器自带网页翻译功能，例如 Chrome 和 Edge。还有一些国内的浏览器也有这项功能。但是也有一些因为其他原因没有这项功能的浏览器，例如 Firefox 和我之前用过的 Vivaldi。&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Firefox 翻译扩展</title>
-      <link>http://localhost:1313/posts/firefox-translation-extension/</link>
-      <pubDate>Tue, 09 Mar 2021 05:58:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/firefox-translation-extension/</guid>
-      <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/firefox-translation-extension/cover.webp" />
-    </item>
-    
   </channel>
 </rss>

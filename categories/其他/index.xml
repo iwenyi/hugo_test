@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>其他 on Wenyi&#39;s Blog</title>
-    <link>http://localhost:1313/categories/%E5%85%B6%E4%BB%96/</link>
-    <description>Recent content in 其他 on Wenyi&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Wed, 27 Oct 2021 12:41:51 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%85%B6%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>其他 - 分类 - Wenyi&#39;s Blog</title>
+    <link>https://blog.wenyi.org/categories/%E5%85%B6%E4%BB%96/</link>
+    <description>Wenyi&#39;s Blog</description>
+    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 27 Oct 2021 12:41:51 +0000</lastBuildDate>
+    <atom:link href="https://blog.wenyi.org/categories/%E5%85%B6%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>注册公众号了</title>
-      <link>http://localhost:1313/posts/register-for-wechat-official-accounts/</link>
+      <link>https://blog.wenyi.org/posts/register-for-wechat-official-accounts/</link>
       <pubDate>Wed, 27 Oct 2021 12:41:51 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/register-for-wechat-official-accounts/</guid>
-      <description>&lt;p&gt;其实很早以前就想注册公众号了，尝试注册公众号的时间比建站的时间还要早，因为年龄不够无法注册，所以先搭建了个人网站。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/register-for-wechat-official-accounts/cover.webp" />
+      <guid>https://blog.wenyi.org/posts/register-for-wechat-official-accounts/</guid>
+      <category domain="https://blog.wenyi.org/categories/%E5%85%B6%E4%BB%96/">其他</category>
+      <description>&lt;p&gt;其实很早以前就想注册公众号了，尝试注册公众号的时间比建站的时间还要早，因为年龄不够无法注册，所以先搭建了个人网站。&lt;/p&gt;&#xA;&lt;p&gt;现在可以注册了，发现限制有点多，不如自己搭建的网站自由。例如每天只能群发一次，万一哪天有时间多写了文章只能等到第二天才能群发；新注册的公众号没有留言功能，无法互动，交流有些不便。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

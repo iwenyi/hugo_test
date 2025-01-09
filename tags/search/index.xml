@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Search on Wenyi&#39;s Blog</title>
-    <link>http://localhost:1313/tags/search/</link>
-    <description>Recent content in Search on Wenyi&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <copyright>© 2020-2024 Wenyi</copyright>
-    <lastBuildDate>Fri, 17 Dec 2021 04:12:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/search/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Search - 标签 - Wenyi&#39;s Blog</title>
+    <link>https://blog.wenyi.org/tags/search/</link>
+    <description>Wenyi&#39;s Blog</description>
+    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 17 Dec 2021 04:12:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.wenyi.org/tags/search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bing 无法访问</title>
-      <link>http://localhost:1313/posts/bing-is-not-accessible/</link>
+      <link>https://blog.wenyi.org/posts/bing-is-not-accessible/</link>
       <pubDate>Fri, 17 Dec 2021 04:12:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/bing-is-not-accessible/</guid>
+      <guid>https://blog.wenyi.org/posts/bing-is-not-accessible/</guid>
+      <category domain="https://blog.wenyi.org/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
       <description>&lt;p&gt;昨天下午，我搜索资料时，发现 Bing 无法加载。我还以为是自己的网络问题，更换设备后还是打不开，今天看到 &lt;code&gt;&amp;lt;a rel=&amp;quot;noreferrer noopener&amp;quot; href=&amp;quot;https://www.ithome.com/0/592/920.htm&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&lt;/code&gt;IT 之家&lt;code&gt;&amp;lt;/a&amp;gt;&lt;/code&gt;消息后才知道部分地区无法访问。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/bing-is-not-accessible/cover.webp" />
     </item>
-    
   </channel>
 </rss>
