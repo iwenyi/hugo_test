@@ -1,52 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github - 标签 - Wenyi&#39;s Blog</title>
-    <link>https://blog.wenyi.org/tags/github/</link>
-    <description>Wenyi&#39;s Blog</description>
-    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sat, 27 Feb 2021 04:31:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.wenyi.org/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <title>Github on Wenyi&#39;s Blog</title>
+    <link>https://ejhu.com/tags/github/</link>
+    <description>Recent content in Github on Wenyi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2020-2025 Wenyi</copyright>
+    <lastBuildDate>Sat, 27 Feb 2021 04:31:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Gitalk 评论出错</title>
-      <link>https://blog.wenyi.org/posts/gitalk-comment-error/</link>
+      <link>https://ejhu.com/posts/gitalk-comment-error/</link>
       <pubDate>Sat, 27 Feb 2021 04:31:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/gitalk-comment-error/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;我昨天发现了一个问题，就是更改了用户名后 Gitalk 评论出错，无法加载评论（&lt;strong&gt;Error: Request failed with status code 403&lt;/strong&gt;）。&lt;/p&gt;&#xA;&lt;p&gt;我认为问题出在了没有重新设置 GitHub Application，使用的还是以前的用户名。后来发现没有这么简单，在网上搜索后看到了这一篇文章。&#xA;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/350735142&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://zhuanlan.zhihu.com/p/350735142&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/gitalk-comment-error/</guid>
+      <description>&lt;p&gt;我昨天发现了一个问题，就是更改了用户名后 Gitalk 评论出错，无法加载评论（&lt;strong&gt;Error: Request failed with status code 403&lt;/strong&gt;）。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/gitalk-comment-error/cover.webp" />
     </item>
+    
     <item>
       <title>修改 Github 用户名</title>
-      <link>https://blog.wenyi.org/posts/change-github-username/</link>
+      <link>https://ejhu.com/posts/change-github-username/</link>
       <pubDate>Fri, 26 Feb 2021 05:12:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/change-github-username/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
-      <description>&lt;p&gt;最近想到之前 Github 用户名设置的有点长，不方便输入和分享，于是最近想要修改Github 用户名。下面说一下 Github 用户名修改方法。&lt;/p&gt;&#xA;&lt;h3 id=&#34;关于用户名修改&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;关于用户名修改&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%85%b3%e4%ba%8e%e7%94%a8%e6%88%b7%e5%90%8d%e4%bf%ae%e6%94%b9&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;引用 Github Docs：&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/change-github-username/</guid>
+      <description>&lt;p&gt;最近想到之前 Github 用户名设置的有点长，不方便输入和分享，于是最近想要修改Github 用户名。下面说一下 Github 用户名修改方法。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/change-github-username/cover.webp" />
     </item>
+    
     <item>
       <title>建站笔记 (4)</title>
-      <link>https://blog.wenyi.org/posts/website-log-four/</link>
+      <link>https://ejhu.com/posts/website-log-four/</link>
       <pubDate>Wed, 17 Feb 2021 15:14:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/website-log-four/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这是建站笔记第四篇文章。&#xA;谈一下评论功能。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;网站搭建好后，可以添加评论系统与访客互动。我写文章用的是 Gridea，下面以&lt;strong&gt;Gridea+Gitalk&lt;/strong&gt; 为例搭建评论系统。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/website-log-four/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第四篇文章。
+谈一下评论功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网站搭建好后，可以添加评论系统与访客互动。我写文章用的是 Gridea，下面以&lt;strong&gt;Gridea+Gitalk&lt;/strong&gt; 为例搭建评论系统。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-four/cover.webp" />
     </item>
+    
     <item>
       <title>建站笔记 (3)</title>
-      <link>https://blog.wenyi.org/posts/website-log-three/</link>
+      <link>https://ejhu.com/posts/website-log-three/</link>
       <pubDate>Wed, 10 Feb 2021 07:20:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/website-log-three/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这是建站笔记第三篇文章。&#xA;谈一下图床。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;图床是用来存放文章图片的，所以图床的访问速度是很重要的。第三方的免费图床不太稳定，万一哪天关停了服务，会很麻烦的。所以自己搭图床有保障，比较稳定。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/website-log-three/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第三篇文章。
+谈一下图床。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;图床是用来存放文章图片的，所以图床的访问速度是很重要的。第三方的免费图床不太稳定，万一哪天关停了服务，会很麻烦的。所以自己搭图床有保障，比较稳定。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-three/cover.webp" />
     </item>
+    
     <item>
       <title>建站笔记 (1)</title>
-      <link>https://blog.wenyi.org/posts/website-log-one/</link>
+      <link>https://ejhu.com/posts/website-log-one/</link>
       <pubDate>Fri, 01 Jan 2021 14:33:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/website-log-one/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这是建站笔记第一篇文章。&#xA;建网站需要有&lt;strong&gt;域名&lt;/strong&gt;和&lt;strong&gt;主机/空间/服务器&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;下面先谈一下&lt;strong&gt;域名&lt;/strong&gt;：&#xA;域名可以在域名注册商那里注册，具体的我就不说了，可以自己搜一下。我的域名是在 Name 注册的，支持团队也是不错的，不过需要用英语交流。Name.com Referral Program：&lt;a href=&#34;https://www.name.com/zh-cn/referral/425c65&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://www.name.com/zh-cn/referral/425c65&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/website-log-one/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第一篇文章。
+建网站需要有&lt;strong&gt;域名&lt;/strong&gt;和&lt;strong&gt;主机/空间/服务器&lt;/strong&gt;。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-one/cover.webp" />
     </item>
+    
   </channel>
 </rss>

@@ -1,301 +1,606 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts - Wenyi&#39;s Blog</title>
-    <link>https://blog.wenyi.org/posts/</link>
-    <description>Wenyi&#39;s Blog</description>
-    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Tue, 11 Apr 2023 14:03:39 +0000</lastBuildDate>
-    <atom:link href="https://blog.wenyi.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts on Wenyi&#39;s Blog</title>
+    <link>https://ejhu.com/posts/</link>
+    <description>Recent content in Posts on Wenyi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2020-2025 Wenyi</copyright>
+    <lastBuildDate>Tue, 11 Apr 2023 14:03:39 +0000</lastBuildDate><atom:link href="https://ejhu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>关闭 Windows 11 推荐的项目</title>
-      <link>https://blog.wenyi.org/posts/turn-off-recommended-items-in-windows11/</link>
+      <link>https://ejhu.com/posts/turn-off-recommended-items-in-windows11/</link>
       <pubDate>Tue, 11 Apr 2023 14:03:39 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/turn-off-recommended-items-in-windows11/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;h3 id=&#34;前言&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;前言&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;从 Windows 10 升级到 Windows 11 以后，开始菜单变化很大，尤其是增加了「&lt;strong&gt;推荐的项目&lt;/strong&gt;」。会显示最近打开的应用和文件，看着有点混乱，所以想要把它关闭。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/turn-off-recommended-items-in-windows11/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;前言 
+    &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E8%A8%80&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;从 Windows 10 升级到 Windows 11 以后，开始菜单变化很大，尤其是增加了「&lt;strong&gt;推荐的项目&lt;/strong&gt;」。会显示最近打开的应用和文件，看着有点混乱，所以想要把它关闭。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/turn-off-recommended-items-in-windows11/cover.webp" />
     </item>
+    
     <item>
       <title>Everything 卸载后仍然存在右键菜单上</title>
-      <link>https://blog.wenyi.org/posts/completely-uninstall-everything/</link>
+      <link>https://ejhu.com/posts/completely-uninstall-everything/</link>
       <pubDate>Sun, 16 Oct 2022 09:42:21 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/completely-uninstall-everything/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;p&gt;快捷键 Win+R，打开「运行」，然后输入 regedit，之后回车，进入「注册表编辑器」。&lt;/p&gt;&#xA;&lt;p&gt;快捷键 Ctrl+F，在弹出的「查找」对话框输入 &lt;/p&gt;&#xA;&lt;pre class=&#34;wp-block-code&#34;&gt;&lt;code&gt;HKEY_CLASSES_ROOT\Folder\shell\Search Everything...&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;，然后删除该注册表项。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/completely-uninstall-everything/</guid>
+      <description>&lt;p&gt;快捷键 Win+R，打开「运行」，然后输入 regedit，之后回车，进入「注册表编辑器」。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/completely-uninstall-everything/cover.webp" />
     </item>
+    
     <item>
       <title>U 盘启动盘恢复为普通 U 盘</title>
-      <link>https://blog.wenyi.org/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</link>
+      <link>https://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</link>
       <pubDate>Mon, 11 Jul 2022 13:51:05 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;p&gt;近使用 U 盘安装系统，制作系统启动盘。安装完系统后，发现 U 盘中 EFI 分区，需要把它删掉。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;首先使用快捷键 Win+R，输入 cmd 打开命令提示符；&lt;/li&gt;&#xA;&lt;li&gt;然后输入 diskpart；&lt;/li&gt;&#xA;&lt;li&gt;输入之后会显示磁盘列表，通常电脑的磁盘为 0，U 盘为 1；&lt;/li&gt;&#xA;&lt;li&gt;接下来输入 sel disk 1；&lt;/li&gt;&#xA;&lt;li&gt;最后输入 clean，U 盘恢复为普通 U 盘了。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+      <guid>https://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</guid>
+      <description>&lt;p&gt;近使用 U 盘安装系统，制作系统启动盘。安装完系统后，发现 U 盘中 EFI 分区，需要把它删掉。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/cover.webp" />
     </item>
+    
     <item>
       <title>解决 VMware 虚拟机运行时 “内部错误” 问题</title>
-      <link>https://blog.wenyi.org/posts/vmware-internal-errors/</link>
+      <link>https://ejhu.com/posts/vmware-internal-errors/</link>
       <pubDate>Tue, 29 Mar 2022 13:30:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/vmware-internal-errors/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;h2 id=&#34;起因&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;起因&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e8%b5%b7%e5%9b%a0&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;最近在使用 VMware 虚拟机的时候，遇到了一个问题。问题出现在虚拟系统重新启动后，提示“内部错误”。&#xA;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.wenyi.org/posts/vmware-internal-errors/1.webp&#34; alt=&#34;内部错误&#34; srcset=&#34;https://blog.wenyi.org/posts/vmware-internal-errors/1.webp?size=small, https://blog.wenyi.org/posts/vmware-internal-errors/1.webp?size=medium 1.5x, https://blog.wenyi.org/posts/vmware-internal-errors/1.webp?size=large 2x&#34; data-title=&#34;内部错误&#34; style=&#34;--width: 373px;--aspect-ratio: 373 / 199;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/vmware-internal-errors/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;起因 
+    &lt;div id=&#34;%E8%B5%B7%E5%9B%A0&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%B5%B7%E5%9B%A0&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;最近在使用 VMware 虚拟机的时候，遇到了一个问题。问题出现在虚拟系统重新启动后，提示“内部错误”。
+
+    &lt;figure&gt;
+      &lt;img
+        class=&#34;my-0 rounded-md&#34;
+        loading=&#34;lazy&#34;
+        srcset=&#34;
+        /posts/vmware-internal-errors/1_hu2480435759602044855.webp 330w,
+        /posts/vmware-internal-errors/1_hu17581762852679945649.webp 660w,
+        /posts/vmware-internal-errors/1_hu11132588244314153281.webp 1024w,
+        /posts/vmware-internal-errors/1_hu6192733007204546702.webp 2x&#34;
+        src=&#34;https://ejhu.com/posts/vmware-internal-errors/1_hu17581762852679945649.webp&#34;
+        alt=&#34;内部错误&#34;
+      /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/vmware-internal-errors/cover.webp" />
     </item>
+    
     <item>
       <title>缓解 WordPress 文章 ID 不连续问题</title>
-      <link>https://blog.wenyi.org/posts/wordpress-post-id-discontinuity-issue/</link>
+      <link>https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</link>
       <pubDate>Sun, 26 Dec 2021 12:31:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/wordpress-post-id-discontinuity-issue/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;h2 id=&#34;前言&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;前言&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;最近浏览小站时，发现最新的一篇文章的 ID 已经是 441 了，小站总共才 30 多篇文章。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
+    &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E8%A8%80&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;最近浏览小站时，发现最新的一篇文章的 ID 已经是 441 了，小站总共才 30 多篇文章。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/cover.webp" />
     </item>
+    
     <item>
       <title>Bing 无法访问</title>
-      <link>https://blog.wenyi.org/posts/bing-is-not-accessible/</link>
+      <link>https://ejhu.com/posts/bing-is-not-accessible/</link>
       <pubDate>Fri, 17 Dec 2021 04:12:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/bing-is-not-accessible/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      <guid>https://ejhu.com/posts/bing-is-not-accessible/</guid>
       <description>&lt;p&gt;昨天下午，我搜索资料时，发现 Bing 无法加载。我还以为是自己的网络问题，更换设备后还是打不开，今天看到 &lt;code&gt;&amp;lt;a rel=&amp;quot;noreferrer noopener&amp;quot; href=&amp;quot;https://www.ithome.com/0/592/920.htm&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&lt;/code&gt;IT 之家&lt;code&gt;&amp;lt;/a&amp;gt;&lt;/code&gt;消息后才知道部分地区无法访问。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/bing-is-not-accessible/cover.webp" />
     </item>
+    
     <item>
       <title>让任务栏有趣起来的程序：RunCat</title>
-      <link>https://blog.wenyi.org/posts/runcat/</link>
+      <link>https://ejhu.com/posts/runcat/</link>
       <pubDate>Tue, 07 Dec 2021 04:11:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/runcat/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%88%86%E4%BA%AB/">分享</category>
-      <description>&lt;h2 id=&#34;介绍&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;介绍&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e4%bb%8b%e7%bb%8d&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;最近在 Github 上发现一个有趣的程序，名字叫做 &lt;strong&gt;RunCat&lt;/strong&gt;。安装后会在任务栏显示一只奔跑的小猫，通过小猫奔跑的速度来判断 CPU 使用率，小猫奔跑的速度越快，CPU 使用率就越高。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/runcat/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
+    &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BB%8B%E7%BB%8D&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;最近在 Github 上发现一个有趣的程序，名字叫做 &lt;strong&gt;RunCat&lt;/strong&gt;。安装后会在任务栏显示一只奔跑的小猫，通过小猫奔跑的速度来判断 CPU 使用率，小猫奔跑的速度越快，CPU 使用率就越高。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/runcat/cover.webp" />
     </item>
+    
     <item>
       <title>安装 Windows 11 安卓子系统</title>
-      <link>https://blog.wenyi.org/posts/installing-the-windows11-android-subsystem/</link>
+      <link>https://ejhu.com/posts/installing-the-windows11-android-subsystem/</link>
       <pubDate>Tue, 02 Nov 2021 15:00:18 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/installing-the-windows11-android-subsystem/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;h2 id=&#34;准备&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;准备&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%87%86%e5%a4%87&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;div class=&#34;wp-block-zibllblock-alert alert-dismissible fade in&#34;&gt;&#xA;  &lt;div class=&#34;alert jb-yellow&#34; data-isclose=&#34;&#34; role=&#34;alert&#34;&gt;&#xA;    注意：&lt;br /&gt;需要已经加入 Windows 预览体验计划，并且在预览体验成员设置选择 &lt;strong&gt;Beta 渠道。&lt;/strong&gt;Windows 企业版、专业版或教育版可以开启 Hyper-V，Windows 家庭版没有此项功能。&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;1.在&lt;strong&gt;设置——时间和语言——语言 &amp;amp; 区域——区域&lt;/strong&gt;，把「&lt;strong&gt;国家或地区&lt;/strong&gt;」改为美国。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/installing-the-windows11-android-subsystem/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;准备 
+    &lt;div id=&#34;%E5%87%86%E5%A4%87&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%87%86%E5%A4%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;wp-block-zibllblock-alert alert-dismissible fade in&#34;&gt;
+  &lt;div class=&#34;alert jb-yellow&#34; data-isclose=&#34;&#34; role=&#34;alert&#34;&gt;
+    注意：&lt;br /&gt;需要已经加入 Windows 预览体验计划，并且在预览体验成员设置选择 &lt;strong&gt;Beta 渠道。&lt;/strong&gt;Windows 企业版、专业版或教育版可以开启 Hyper-V，Windows 家庭版没有此项功能。
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;1.在&lt;strong&gt;设置——时间和语言——语言 &amp;amp; 区域——区域&lt;/strong&gt;，把「&lt;strong&gt;国家或地区&lt;/strong&gt;」改为美国。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/installing-the-windows11-android-subsystem/cover.webp" />
     </item>
+    
     <item>
       <title>注册公众号了</title>
-      <link>https://blog.wenyi.org/posts/register-for-wechat-official-accounts/</link>
+      <link>https://ejhu.com/posts/register-for-wechat-official-accounts/</link>
       <pubDate>Wed, 27 Oct 2021 12:41:51 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/register-for-wechat-official-accounts/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%85%B6%E4%BB%96/">其他</category>
-      <description>&lt;p&gt;其实很早以前就想注册公众号了，尝试注册公众号的时间比建站的时间还要早，因为年龄不够无法注册，所以先搭建了个人网站。&lt;/p&gt;&#xA;&lt;p&gt;现在可以注册了，发现限制有点多，不如自己搭建的网站自由。例如每天只能群发一次，万一哪天有时间多写了文章只能等到第二天才能群发；新注册的公众号没有留言功能，无法互动，交流有些不便。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/register-for-wechat-official-accounts/</guid>
+      <description>&lt;p&gt;其实很早以前就想注册公众号了，尝试注册公众号的时间比建站的时间还要早，因为年龄不够无法注册，所以先搭建了个人网站。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/register-for-wechat-official-accounts/cover.webp" />
     </item>
+    
     <item>
       <title>无法开启 Windows 发送可选数据诊断</title>
-      <link>https://blog.wenyi.org/posts/unable-to-turn-on-windows-send-optional-data-diagnostics/</link>
+      <link>https://ejhu.com/posts/unable-to-turn-on-windows-send-optional-data-diagnostics/</link>
       <pubDate>Sat, 23 Oct 2021 13:57:33 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/unable-to-turn-on-windows-send-optional-data-diagnostics/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;h2 id=&#34;问题&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;问题&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e9%97%ae%e9%a2%98&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;加入 Windows 预览体验计划需要开启发送数据诊断，然而有时候发送可选数据诊断无法开启，导致无法加入 Windows 预览体验计划。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/unable-to-turn-on-windows-send-optional-data-diagnostics/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;问题 
+    &lt;div id=&#34;%E9%97%AE%E9%A2%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%97%AE%E9%A2%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;加入 Windows 预览体验计划需要开启发送数据诊断，然而有时候发送可选数据诊断无法开启，导致无法加入 Windows 预览体验计划。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/unable-to-turn-on-windows-send-optional-data-diagnostics/cover.webp" />
     </item>
+    
     <item>
       <title>Hexo 点击文章变成了下载</title>
-      <link>https://blog.wenyi.org/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
+      <link>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
       <pubDate>Sat, 04 Sep 2021 14:05:09 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;h3 id=&#34;问题&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;问题&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e9%97%ae%e9%a2%98&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;最近我在修改 Hexo 的时候遇到了一个问题，部署到 Github 后访问显示这样：&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;问题 
+    &lt;div id=&#34;%E9%97%AE%E9%A2%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%97%AE%E9%A2%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;最近我在修改 Hexo 的时候遇到了一个问题，部署到 Github 后访问显示这样：&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/cover.webp" />
     </item>
+    
     <item>
       <title>禁用 XML-RPC 服务</title>
-      <link>https://blog.wenyi.org/posts/disable-xml-rpc/</link>
+      <link>https://ejhu.com/posts/disable-xml-rpc/</link>
       <pubDate>Wed, 18 Aug 2021 13:54:42 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/disable-xml-rpc/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;h2 id=&#34;前言&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;前言&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;小站迁移到 WordPress 已经有几天时间了。最近查看 Wordfence 拦截日志时发现有人在不断访问 xmlrpc.php，经过查找资料了解到有安全风险，可能会被暴力破解。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/disable-xml-rpc/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
+    &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E8%A8%80&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;小站迁移到 WordPress 已经有几天时间了。最近查看 Wordfence 拦截日志时发现有人在不断访问 xmlrpc.php，经过查找资料了解到有安全风险，可能会被暴力破解。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/disable-xml-rpc/cover.webp" />
     </item>
+    
     <item>
       <title>HTTPS 访问出现混合内容</title>
-      <link>https://blog.wenyi.org/posts/https-mixed-content/</link>
+      <link>https://ejhu.com/posts/https-mixed-content/</link>
       <pubDate>Sun, 01 Aug 2021 15:10:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/https-mixed-content/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;h2 id=&#34;前言&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;前言&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;下午的时候看到了 MySSL 的提醒邮件，证书出现异常，也就是 443 端口连接异常。开始以为是服务器出现问题，因为服务器配置比较低，前几次重启服务器后恢复运行。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/https-mixed-content/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
+    &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E8%A8%80&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;下午的时候看到了 MySSL 的提醒邮件，证书出现异常，也就是 443 端口连接异常。开始以为是服务器出现问题，因为服务器配置比较低，前几次重启服务器后恢复运行。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/https-mixed-content/cover.webp" />
     </item>
+    
     <item>
       <title>QQ 跳转链接</title>
-      <link>https://blog.wenyi.org/posts/qq-jump-links/</link>
+      <link>https://ejhu.com/posts/qq-jump-links/</link>
       <pubDate>Sat, 24 Jul 2021 14:01:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/qq-jump-links/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%88%86%E4%BA%AB/">分享</category>
-      <description>&lt;p&gt;最近搭建了个人主页，需要在页面上添加社交链接，其中就有 QQ 链接。&lt;/p&gt;&#xA;&lt;p&gt;我的个人主页：&lt;a href=&#34;https://i.wenyi.cc&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://i.wenyi.cc&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;添加链接后，点击图标打开页面，提示打开 QQ 程序。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.wenyi.org/posts/qq-jump-links/1.webp&#34; alt=&#34;打开 QQ 程序&#34; srcset=&#34;https://blog.wenyi.org/posts/qq-jump-links/1.webp?size=small, https://blog.wenyi.org/posts/qq-jump-links/1.webp?size=medium 1.5x, https://blog.wenyi.org/posts/qq-jump-links/1.webp?size=large 2x&#34; data-title=&#34;打开 QQ 程序&#34; style=&#34;--width: 545px;--aspect-ratio: 545 / 179;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/qq-jump-links/</guid>
+      <description>&lt;p&gt;最近搭建了个人主页，需要在页面上添加社交链接，其中就有 QQ 链接。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/qq-jump-links/cover.webp" />
     </item>
+    
     <item>
       <title>更换小站 Logo 和 Favicon</title>
-      <link>https://blog.wenyi.org/posts/change-logo-and-favicon/</link>
+      <link>https://ejhu.com/posts/change-logo-and-favicon/</link>
       <pubDate>Sun, 18 Jul 2021 13:06:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/change-logo-and-favicon/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;前几天给小站更换 Logo 和 Favicon，以前的 Logo 和 Favicon 是用同一张图片制作的。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.wenyi.org/posts/change-logo-and-favicon/1.webp&#34; alt=&#34;旧版 Logo 和 Favicon&#34; srcset=&#34;https://blog.wenyi.org/posts/change-logo-and-favicon/1.webp?size=small, https://blog.wenyi.org/posts/change-logo-and-favicon/1.webp?size=medium 1.5x, https://blog.wenyi.org/posts/change-logo-and-favicon/1.webp?size=large 2x&#34; data-title=&#34;旧版 Logo 和 Favicon&#34; style=&#34;--width: 500px;--aspect-ratio: 500 / 500;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/change-logo-and-favicon/</guid>
+      <description>&lt;p&gt;前几天给小站更换 Logo 和 Favicon，以前的 Logo 和 Favicon 是用同一张图片制作的。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/change-logo-and-favicon/cover.webp" />
     </item>
+    
     <item>
       <title>域名从阿里云转入到腾讯云</title>
-      <link>https://blog.wenyi.org/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</link>
+      <link>https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</link>
       <pubDate>Wed, 14 Jul 2021 13:32:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
+      
+      <guid>https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</guid>
       <description>&lt;p&gt;小站的域名以前在阿里云，现在转入到腾讯云了。之前给域名续费时，发现腾讯云域名价格比阿里云便宜一点，转入需要 48 元，而且小站的服务器是腾讯云的，放在一起方便管理。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/cover.webp" />
     </item>
+    
     <item>
       <title>升级到 Windows 11</title>
-      <link>https://blog.wenyi.org/posts/upgrade-to-windows11/</link>
+      <link>https://ejhu.com/posts/upgrade-to-windows11/</link>
       <pubDate>Wed, 30 Jun 2021 11:05:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/upgrade-to-windows11/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;p&gt;今天发现有些网友已经升级到 Windows 11 了，看起来很好看，我也要尝尝鲜。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;警告：&lt;/strong&gt; 当前属于测试版本，将会存在一些不足之处和低稳定性。升级前需要备份数据，以防数据丢失。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/upgrade-to-windows11/</guid>
+      <description>&lt;p&gt;今天发现有些网友已经升级到 Windows 11 了，看起来很好看，我也要尝尝鲜。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/upgrade-to-windows11/cover.webp" />
     </item>
+    
     <item>
       <title>检查电脑能否升级到 Windows 11</title>
-      <link>https://blog.wenyi.org/posts/preparing-for-the-upgrade-to-windows11/</link>
+      <link>https://ejhu.com/posts/preparing-for-the-upgrade-to-windows11/</link>
       <pubDate>Fri, 25 Jun 2021 06:06:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/preparing-for-the-upgrade-to-windows11/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;p&gt;今天看到网上消息说 Windows 11 就要来了，很期待我的电脑能升级到新系统。&lt;/p&gt;&#xA;&lt;p&gt;官网介绍：&#xA;&lt;a href=&#34;https://www.microsoft.com/zh-cn/windows/windows-11&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://www.microsoft.com/zh-cn/windows/windows-11&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;官网上有&lt;strong&gt;最低系统要求&lt;/strong&gt;，可以查看自己的电脑是否符合配置要求。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.wenyi.org/posts/preparing-for-the-upgrade-to-windows11/1.webp&#34; alt=&#34;最低系统要求&#34; srcset=&#34;https://blog.wenyi.org/posts/preparing-for-the-upgrade-to-windows11/1.webp?size=small, https://blog.wenyi.org/posts/preparing-for-the-upgrade-to-windows11/1.webp?size=medium 1.5x, https://blog.wenyi.org/posts/preparing-for-the-upgrade-to-windows11/1.webp?size=large 2x&#34; data-title=&#34;最低系统要求&#34; style=&#34;--width: 1618px;--aspect-ratio: 1618 / 336;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/preparing-for-the-upgrade-to-windows11/</guid>
+      <description>&lt;p&gt;今天看到网上消息说 Windows 11 就要来了，很期待我的电脑能升级到新系统。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/preparing-for-the-upgrade-to-windows11/cover.webp" />
     </item>
+    
     <item>
       <title>阿里云盘桌面端体验</title>
-      <link>https://blog.wenyi.org/posts/alidrive-for-desktop/</link>
+      <link>https://ejhu.com/posts/alidrive-for-desktop/</link>
       <pubDate>Thu, 17 Jun 2021 21:51:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/alidrive-for-desktop/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%88%86%E4%BA%AB/">分享</category>
-      <description>&lt;p&gt;今天发现阿里云盘桌面端上线了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.wenyi.org/posts/alidrive-for-desktop/1.webp&#34; alt=&#34;阿里云盘官网&#34; srcset=&#34;https://blog.wenyi.org/posts/alidrive-for-desktop/1.webp?size=small, https://blog.wenyi.org/posts/alidrive-for-desktop/1.webp?size=medium 1.5x, https://blog.wenyi.org/posts/alidrive-for-desktop/1.webp?size=large 2x&#34; data-title=&#34;阿里云盘官网&#34; style=&#34;--width: 1900px;--aspect-ratio: 1900 / 910;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;功能&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;功能&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%8a%9f%e8%83%bd&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;体验之后感觉功能比较简单，和网页版差不多，目前分享功能暂时不能使用。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/alidrive-for-desktop/</guid>
+      <description>&lt;p&gt;今天发现阿里云盘桌面端上线了。&lt;/p&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img
+        class=&#34;my-0 rounded-md&#34;
+        loading=&#34;lazy&#34;
+        srcset=&#34;
+        /posts/alidrive-for-desktop/1_hu4981989304301534613.webp 330w,
+        /posts/alidrive-for-desktop/1_hu5887814768738751582.webp 660w,
+        /posts/alidrive-for-desktop/1_hu14436105610293874623.webp 1024w,
+        /posts/alidrive-for-desktop/1_hu12600653676709549913.webp 2x&#34;
+        src=&#34;https://ejhu.com/posts/alidrive-for-desktop/1_hu5887814768738751582.webp&#34;
+        alt=&#34;阿里云盘官网&#34;
+      /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;功能 
+    &lt;div id=&#34;%E5%8A%9F%E8%83%BD&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%8A%9F%E8%83%BD&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;体验之后感觉功能比较简单，和网页版差不多，目前分享功能暂时不能使用。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/alidrive-for-desktop/cover.webp" />
     </item>
+    
     <item>
       <title>Windows 10 开启自动登录</title>
-      <link>https://blog.wenyi.org/posts/windows10-automatic-login/</link>
+      <link>https://ejhu.com/posts/windows10-automatic-login/</link>
       <pubDate>Sat, 12 Jun 2021 14:44:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/windows10-automatic-login/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;p&gt;Windows 10 登录默认需要输入密码，有时候觉得麻烦，想要自动登录。&lt;/p&gt;&#xA;&lt;h2 id=&#34;方法&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;方法&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e6%96%b9%e6%b3%95&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;h3 id=&#34;使用高级用户账户控制面板&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;使用高级用户账户控制面板&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e4%bd%bf%e7%94%a8%e9%ab%98%e7%ba%a7%e7%94%a8%e6%88%b7%e8%b4%a6%e6%88%b7%e6%8e%a7%e5%88%b6%e9%9d%a2%e6%9d%bf&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;1.组合键 &lt;strong&gt;Windows+R&lt;/strong&gt; 打开运行，输入 &lt;code&gt;control userpasswords2&lt;/code&gt; 或 &lt;code&gt;netplwiz&lt;/code&gt; 执行；&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/windows10-automatic-login/</guid>
+      <description>&lt;p&gt;Windows 10 登录默认需要输入密码，有时候觉得麻烦，想要自动登录。&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;方法 
+    &lt;div id=&#34;%E6%96%B9%E6%B3%95&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%96%B9%E6%B3%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+
+&lt;h3 class=&#34;relative group&#34;&gt;使用高级用户账户控制面板 
+    &lt;div id=&#34;%E4%BD%BF%E7%94%A8%E9%AB%98%E7%BA%A7%E7%94%A8%E6%88%B7%E8%B4%A6%E6%88%B7%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BD%BF%E7%94%A8%E9%AB%98%E7%BA%A7%E7%94%A8%E6%88%B7%E8%B4%A6%E6%88%B7%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%9D%BF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;1.组合键 &lt;strong&gt;Windows+R&lt;/strong&gt; 打开运行，输入 &lt;code&gt;control userpasswords2&lt;/code&gt; 或 &lt;code&gt;netplwiz&lt;/code&gt; 执行；&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/windows10-automatic-login/cover.webp" />
     </item>
+    
     <item>
       <title>jsDelivr 加速 Github 资源</title>
-      <link>https://blog.wenyi.org/posts/jsdelivr-accelerated-github-resources/</link>
+      <link>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</link>
       <pubDate>Sun, 06 Jun 2021 14:31:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/jsdelivr-accelerated-github-resources/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;h2 id=&#34;介绍&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;介绍&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e4%bb%8b%e7%bb%8d&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;CDN 的全称是 Content Delivery Network，即&lt;a href=&#34;https://baike.baidu.com/item/%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C/4034265&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;内容分发网络&lt;/a&gt;。CDN 是构建在现有网络基础之上的智能虚拟网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN 的关键技术主要有内容存储和分发技术。&lt;a href=&#34;https://baike.baidu.com/item/CDN&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;（百度百科）&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
+    &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BB%8B%E7%BB%8D&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;CDN 的全称是 Content Delivery Network，即&lt;a href=&#34;https://baike.baidu.com/item/%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C/4034265&#34; target=&#34;_blank&#34;&gt;内容分发网络&lt;/a&gt;。CDN 是构建在现有网络基础之上的智能虚拟网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN 的关键技术主要有内容存储和分发技术。&lt;a href=&#34;https://baike.baidu.com/item/CDN&#34; target=&#34;_blank&#34;&gt;（百度百科）&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/jsdelivr-accelerated-github-resources/cover.webp" />
     </item>
+    
     <item>
       <title>Typecho 评论/时光机的时间格式</title>
-      <link>https://blog.wenyi.org/posts/typecho-time-format/</link>
+      <link>https://ejhu.com/posts/typecho-time-format/</link>
       <pubDate>Thu, 03 Jun 2021 21:53:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/typecho-time-format/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;&lt;code&gt;&amp;lt;span style=&amp;quot;color: #ff0000;&amp;quot;&amp;gt;&lt;/code&gt;最近修改了小站评论日期格式，记录一下。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Typecho 默认的日期格式是 &lt;code&gt;F jS, Y \a\t h:i&lt;/code&gt;，实际显示 &lt;code&gt;June 2nd, 2021 at 04:06 pm&lt;/code&gt; 。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;填写 &lt;code&gt;natural&lt;/code&gt;，实际显示：&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/typecho-time-format/</guid>
+      <description>&lt;p&gt;&lt;code&gt;&amp;lt;span style=&amp;quot;color: #ff0000;&amp;quot;&amp;gt;&lt;/code&gt;最近修改了小站评论日期格式，记录一下。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/typecho-time-format/cover.webp" />
     </item>
+    
     <item>
       <title>性格主导色测试</title>
-      <link>https://blog.wenyi.org/posts/personality-test/</link>
+      <link>https://ejhu.com/posts/personality-test/</link>
       <pubDate>Sat, 29 May 2021 16:17:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/personality-test/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%88%86%E4%BA%AB/">分享</category>
-      <description>&lt;p&gt;最近网易云性格主导色测试很火，我也跟风测一下玩玩。&lt;/p&gt;&#xA;&lt;p&gt;除了在 APP 中搜「&lt;strong&gt;颜色&lt;/strong&gt;」，下面的链接也可以打开测试页面。&#xA;&lt;a href=&#34;https://st.music.163.com/st-color-quiz/069&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://st.music.163.com/st-color-quiz/069&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;这个测试我测了九次，六次是蓝粉，三次是粉。（图片下面是对应的推荐曲）&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/personality-test/</guid>
+      <description>&lt;p&gt;最近网易云性格主导色测试很火，我也跟风测一下玩玩。&lt;/p&gt;
+&lt;p&gt;除了在 APP 中搜「&lt;strong&gt;颜色&lt;/strong&gt;」，下面的链接也可以打开测试页面。
+&lt;a href=&#34;https://st.music.163.com/st-color-quiz/069&#34; target=&#34;_blank&#34;&gt;https://st.music.163.com/st-color-quiz/069&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/personality-test/cover.webp" />
     </item>
+    
     <item>
       <title>网站状态页失效</title>
-      <link>https://blog.wenyi.org/posts/status-page-invalidated/</link>
+      <link>https://ejhu.com/posts/status-page-invalidated/</link>
       <pubDate>Sun, 16 May 2021 20:47:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/status-page-invalidated/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;最近没时间看小站，今天登录发现小站的监控页面出错了，到底是发生了什么让监控页面出错了呢？&lt;/p&gt;&#xA;&lt;p&gt;后来在收件箱发现了一封来自 UptimeRobot 的未读邮件，&lt;strong&gt;状态页面自定义域名需要升级到收费版本&lt;/strong&gt;。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/status-page-invalidated/</guid>
+      <description>&lt;p&gt;最近没时间看小站，今天登录发现小站的监控页面出错了，到底是发生了什么让监控页面出错了呢？&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/status-page-invalidated/cover.webp" />
     </item>
+    
     <item>
       <title>天气信息 API 错误</title>
-      <link>https://blog.wenyi.org/posts/weather-api-error/</link>
+      <link>https://ejhu.com/posts/weather-api-error/</link>
       <pubDate>Mon, 05 Apr 2021 05:06:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/weather-api-error/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;h2 id=&#34;起因&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;起因&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e8%b5%b7%e5%9b%a0&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;前几天发现小站左边栏的天气信息错误，开始以为插件出问题了，后来看了其他使用这个插件的网站没有问题。既然不是插件的原因，那就看看是不是 API 的问题。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/weather-api-error/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;起因 
+    &lt;div id=&#34;%E8%B5%B7%E5%9B%A0&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%B5%B7%E5%9B%A0&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;前几天发现小站左边栏的天气信息错误，开始以为插件出问题了，后来看了其他使用这个插件的网站没有问题。既然不是插件的原因，那就看看是不是 API 的问题。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/weather-api-error/cover.webp" />
     </item>
+    
     <item>
       <title>修改默认端口</title>
-      <link>https://blog.wenyi.org/posts/modify-the-default-port/</link>
+      <link>https://ejhu.com/posts/modify-the-default-port/</link>
       <pubDate>Mon, 29 Mar 2021 21:50:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/modify-the-default-port/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;之前发现总有一些陌生的 IP 尝试连接主要端口，怀疑是暴力破解攻击，尤其是 22 端口。使用默认端口不安全，容易被攻破，需要修改默认端口。&lt;/p&gt;&#xA;&lt;h2 id=&#34;修改宝塔面板端口&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;修改宝塔面板端口&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e4%bf%ae%e6%94%b9%e5%ae%9d%e5%a1%94%e9%9d%a2%e6%9d%bf%e7%ab%af%e5%8f%a3&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;默认通过 8888 端口访问宝塔面板。在&lt;strong&gt;面板设置&lt;/strong&gt;中修改端口范围 8888-65535，提前在服务器控制台放行新端口。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/modify-the-default-port/</guid>
+      <description>&lt;p&gt;之前发现总有一些陌生的 IP 尝试连接主要端口，怀疑是暴力破解攻击，尤其是 22 端口。使用默认端口不安全，容易被攻破，需要修改默认端口。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/modify-the-default-port/cover.webp" />
     </item>
+    
     <item>
       <title>使用对象存储备份网站数据</title>
-      <link>https://blog.wenyi.org/posts/cos-backup-website/</link>
+      <link>https://ejhu.com/posts/cos-backup-website/</link>
       <pubDate>Sun, 21 Mar 2021 14:59:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/cos-backup-website/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;最近我给小站进行安全方面的设置，防止小站被攻破，数据被破坏。以前只是把数据每天备份到服务器本地磁盘，现在觉得不安全，应该在其他地方也要备份。&lt;/p&gt;&#xA;&lt;h2 id=&#34;安装插件&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;安装插件&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;在宝塔面板&lt;strong&gt;软件商店——宝塔插件&lt;/strong&gt;中选择插件下载，我选的是&lt;strong&gt;腾讯云 COS&lt;/strong&gt;，需要在腾讯云开通对象存储（COS）服务才能使用。&#xA;腾讯云对象存储 COS：&lt;a href=&#34;https://cloud.tencent.com/product/cos&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://cloud.tencent.com/product/cos&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/cos-backup-website/</guid>
+      <description>&lt;p&gt;最近我给小站进行安全方面的设置，防止小站被攻破，数据被破坏。以前只是把数据每天备份到服务器本地磁盘，现在觉得不安全，应该在其他地方也要备份。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/cos-backup-website/cover.webp" />
     </item>
+    
     <item>
       <title>Uptime Robot 免费的网站状态监控工具</title>
-      <link>https://blog.wenyi.org/posts/uptime-robot/</link>
+      <link>https://ejhu.com/posts/uptime-robot/</link>
       <pubDate>Thu, 18 Mar 2021 09:37:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/uptime-robot/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <category domain="https://blog.wenyi.org/categories/%E6%95%99%E7%A8%8B/">教程</category>
-      <description>&lt;p&gt;前天我给小站添加了用 &lt;strong&gt;Uptime Robot&lt;/strong&gt; 创建的网站状态页面。&lt;/p&gt;&#xA;&lt;p&gt;本站状态页：&lt;a href=&#34;https://stats.uptimerobot.com/n6oMYHGBK6&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://stats.uptimerobot.com/n6oMYHGBK6&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://blog.wenyi.org/posts/uptime-robot/1.webp&#34; alt=&#34;EJHU 状态页&#34; srcset=&#34;https://blog.wenyi.org/posts/uptime-robot/1.webp?size=small, https://blog.wenyi.org/posts/uptime-robot/1.webp?size=medium 1.5x, https://blog.wenyi.org/posts/uptime-robot/1.webp?size=large 2x&#34; data-title=&#34;EJHU 状态页&#34; style=&#34;--width: 1896px;--aspect-ratio: 1896 / 937;background: url(/images/loading.min.svg) no-repeat center;&#34; onload=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}this.dataset.lazyloaded=&#39;&#39;;&#34; onerror=&#34;this.title=this.dataset.title;for(const i of [&#39;style&#39;, &#39;data-title&#39;,&#39;onerror&#39;,&#39;onload&#39;]){this.removeAttribute(i);}&#34;/&gt;&lt;/p&gt;&#xA;&lt;p&gt;Uptime Robot 免费版 50 个监控配额，可以创建一个状态页面，监视器&lt;strong&gt;支持HTTP(s)、关键词、Ping、端口&lt;/strong&gt;等，监视器 &lt;strong&gt;5 分钟触发一次&lt;/strong&gt;，警告可以通过邮件等多种方式通知。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/uptime-robot/</guid>
+      <description>&lt;p&gt;前天我给小站添加了用 &lt;strong&gt;Uptime Robot&lt;/strong&gt; 创建的网站状态页面。&lt;/p&gt;
+&lt;p&gt;本站状态页：&lt;a href=&#34;https://stats.uptimerobot.com/n6oMYHGBK6&#34; target=&#34;_blank&#34;&gt;https://stats.uptimerobot.com/n6oMYHGBK6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+    &lt;figure&gt;
+      &lt;img
+        class=&#34;my-0 rounded-md&#34;
+        loading=&#34;lazy&#34;
+        srcset=&#34;
+        /posts/uptime-robot/1_hu91076629114543351.webp 330w,
+        /posts/uptime-robot/1_hu12359339042346519417.webp 660w,
+        /posts/uptime-robot/1_hu5819969945666281774.webp 1024w,
+        /posts/uptime-robot/1_hu10892982264006459253.webp 2x&#34;
+        src=&#34;https://ejhu.com/posts/uptime-robot/1_hu12359339042346519417.webp&#34;
+        alt=&#34;EJHU 状态页&#34;
+      /&gt;
+      
+    &lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/uptime-robot/cover.webp" />
     </item>
+    
     <item>
       <title>Firefox 翻译扩展</title>
-      <link>https://blog.wenyi.org/posts/firefox-translation-extension/</link>
+      <link>https://ejhu.com/posts/firefox-translation-extension/</link>
       <pubDate>Tue, 09 Mar 2021 05:58:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/firefox-translation-extension/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%88%86%E4%BA%AB/">分享</category>
-      <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;&#xA;&lt;p&gt;现在有许多浏览器自带网页翻译功能，例如 Chrome 和 Edge。还有一些国内的浏览器也有这项功能。但是也有一些因为其他原因没有这项功能的浏览器，例如 Firefox 和我之前用过的 Vivaldi。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/firefox-translation-extension/</guid>
+      <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/firefox-translation-extension/cover.webp" />
     </item>
+    
     <item>
       <title>Gitalk 评论出错</title>
-      <link>https://blog.wenyi.org/posts/gitalk-comment-error/</link>
+      <link>https://ejhu.com/posts/gitalk-comment-error/</link>
       <pubDate>Sat, 27 Feb 2021 04:31:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/gitalk-comment-error/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;我昨天发现了一个问题，就是更改了用户名后 Gitalk 评论出错，无法加载评论（&lt;strong&gt;Error: Request failed with status code 403&lt;/strong&gt;）。&lt;/p&gt;&#xA;&lt;p&gt;我认为问题出在了没有重新设置 GitHub Application，使用的还是以前的用户名。后来发现没有这么简单，在网上搜索后看到了这一篇文章。&#xA;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/350735142&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://zhuanlan.zhihu.com/p/350735142&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/gitalk-comment-error/</guid>
+      <description>&lt;p&gt;我昨天发现了一个问题，就是更改了用户名后 Gitalk 评论出错，无法加载评论（&lt;strong&gt;Error: Request failed with status code 403&lt;/strong&gt;）。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/gitalk-comment-error/cover.webp" />
     </item>
+    
     <item>
       <title>修改 Github 用户名</title>
-      <link>https://blog.wenyi.org/posts/change-github-username/</link>
+      <link>https://ejhu.com/posts/change-github-username/</link>
       <pubDate>Fri, 26 Feb 2021 05:12:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/change-github-username/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
-      <description>&lt;p&gt;最近想到之前 Github 用户名设置的有点长，不方便输入和分享，于是最近想要修改Github 用户名。下面说一下 Github 用户名修改方法。&lt;/p&gt;&#xA;&lt;h3 id=&#34;关于用户名修改&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;关于用户名修改&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%85%b3%e4%ba%8e%e7%94%a8%e6%88%b7%e5%90%8d%e4%bf%ae%e6%94%b9&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&lt;blockquote&gt;&#xA;&lt;p&gt;引用 Github Docs：&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/change-github-username/</guid>
+      <description>&lt;p&gt;最近想到之前 Github 用户名设置的有点长，不方便输入和分享，于是最近想要修改Github 用户名。下面说一下 Github 用户名修改方法。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/change-github-username/cover.webp" />
     </item>
+    
     <item>
       <title>建站笔记 (4)</title>
-      <link>https://blog.wenyi.org/posts/website-log-four/</link>
+      <link>https://ejhu.com/posts/website-log-four/</link>
       <pubDate>Wed, 17 Feb 2021 15:14:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/website-log-four/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这是建站笔记第四篇文章。&#xA;谈一下评论功能。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;网站搭建好后，可以添加评论系统与访客互动。我写文章用的是 Gridea，下面以&lt;strong&gt;Gridea+Gitalk&lt;/strong&gt; 为例搭建评论系统。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/website-log-four/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第四篇文章。
+谈一下评论功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;网站搭建好后，可以添加评论系统与访客互动。我写文章用的是 Gridea，下面以&lt;strong&gt;Gridea+Gitalk&lt;/strong&gt; 为例搭建评论系统。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-four/cover.webp" />
     </item>
+    
     <item>
       <title>建站笔记 (3)</title>
-      <link>https://blog.wenyi.org/posts/website-log-three/</link>
+      <link>https://ejhu.com/posts/website-log-three/</link>
       <pubDate>Wed, 10 Feb 2021 07:20:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/website-log-three/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这是建站笔记第三篇文章。&#xA;谈一下图床。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;图床是用来存放文章图片的，所以图床的访问速度是很重要的。第三方的免费图床不太稳定，万一哪天关停了服务，会很麻烦的。所以自己搭图床有保障，比较稳定。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/website-log-three/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第三篇文章。
+谈一下图床。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;图床是用来存放文章图片的，所以图床的访问速度是很重要的。第三方的免费图床不太稳定，万一哪天关停了服务，会很麻烦的。所以自己搭图床有保障，比较稳定。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-three/cover.webp" />
     </item>
+    
     <item>
       <title>建站笔记 (2)</title>
-      <link>https://blog.wenyi.org/posts/website-log-two/</link>
+      <link>https://ejhu.com/posts/website-log-two/</link>
       <pubDate>Wed, 03 Feb 2021 23:19:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/website-log-two/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这是建站笔记第二篇文章。&#xA;谈一下写作工具。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;概括&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;概括&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e6%a6%82%e6%8b%ac&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;静态页面写作一般用的是 Markdown，Markdown 是一种轻量级标记语言。我现在用的是 &lt;strong&gt;Gridea&lt;/strong&gt;，&lt;strong&gt;Gridea 是一个静态博客写作客户端&lt;/strong&gt;，支持 Windows、Mac OS、Liunx。可以使用 Github Pages，Gitee Pages 和 Coding Pages 等服务来搭建自己的静态博客，然后就能使用它进行愉快的创作了。当然也可以把它当作一个纯粹的    markdown 写作工具，并且最新的版本也支持 Katex 公式。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/website-log-two/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第二篇文章。
+谈一下写作工具。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;概括 
+    &lt;div id=&#34;%E6%A6%82%E6%8B%AC&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%A6%82%E6%8B%AC&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;静态页面写作一般用的是 Markdown，Markdown 是一种轻量级标记语言。我现在用的是 &lt;strong&gt;Gridea&lt;/strong&gt;，&lt;strong&gt;Gridea 是一个静态博客写作客户端&lt;/strong&gt;，支持 Windows、Mac OS、Liunx。可以使用 Github Pages，Gitee Pages 和 Coding Pages 等服务来搭建自己的静态博客，然后就能使用它进行愉快的创作了。当然也可以把它当作一个纯粹的    markdown 写作工具，并且最新的版本也支持 Katex 公式。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-two/cover.webp" />
     </item>
+    
     <item>
       <title>网页加载速度提升</title>
-      <link>https://blog.wenyi.org/posts/webpage-speed-up/</link>
+      <link>https://ejhu.com/posts/webpage-speed-up/</link>
       <pubDate>Thu, 28 Jan 2021 15:01:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/webpage-speed-up/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;网站正在完善中&amp;hellip;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt;现在本站为了&lt;strong&gt;提高访问速度，启动了双站点&lt;/strong&gt;。国内访问部署在 &lt;strong&gt;Coding&lt;/strong&gt;  上的站点，国外访问部署在 &lt;strong&gt;Github&lt;/strong&gt; 上的站点。&lt;code&gt;&amp;lt;/del&amp;gt;&lt;/code&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/webpage-speed-up/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;网站正在完善中&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt;现在本站为了&lt;strong&gt;提高访问速度，启动了双站点&lt;/strong&gt;。国内访问部署在 &lt;strong&gt;Coding&lt;/strong&gt;  上的站点，国外访问部署在 &lt;strong&gt;Github&lt;/strong&gt; 上的站点。&lt;code&gt;&amp;lt;/del&amp;gt;&lt;/code&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/webpage-speed-up/cover.webp" />
     </item>
+    
     <item>
       <title>建站笔记 (1)</title>
-      <link>https://blog.wenyi.org/posts/website-log-one/</link>
+      <link>https://ejhu.com/posts/website-log-one/</link>
       <pubDate>Fri, 01 Jan 2021 14:33:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/website-log-one/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这是建站笔记第一篇文章。&#xA;建网站需要有&lt;strong&gt;域名&lt;/strong&gt;和&lt;strong&gt;主机/空间/服务器&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;下面先谈一下&lt;strong&gt;域名&lt;/strong&gt;：&#xA;域名可以在域名注册商那里注册，具体的我就不说了，可以自己搜一下。我的域名是在 Name 注册的，支持团队也是不错的，不过需要用英语交流。Name.com Referral Program：&lt;a href=&#34;https://www.name.com/zh-cn/referral/425c65&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://www.name.com/zh-cn/referral/425c65&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/website-log-one/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;这是建站笔记第一篇文章。
+建网站需要有&lt;strong&gt;域名&lt;/strong&gt;和&lt;strong&gt;主机/空间/服务器&lt;/strong&gt;。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-one/cover.webp" />
     </item>
+    
   </channel>
 </rss>

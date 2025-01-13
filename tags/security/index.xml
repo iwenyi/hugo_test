@@ -1,36 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security - 标签 - Wenyi&#39;s Blog</title>
-    <link>https://blog.wenyi.org/tags/security/</link>
-    <description>Wenyi&#39;s Blog</description>
-    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Aug 2021 13:54:42 +0000</lastBuildDate>
-    <atom:link href="https://blog.wenyi.org/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <title>Security on Wenyi&#39;s Blog</title>
+    <link>https://ejhu.com/tags/security/</link>
+    <description>Recent content in Security on Wenyi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2020-2025 Wenyi</copyright>
+    <lastBuildDate>Wed, 18 Aug 2021 13:54:42 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>禁用 XML-RPC 服务</title>
-      <link>https://blog.wenyi.org/posts/disable-xml-rpc/</link>
+      <link>https://ejhu.com/posts/disable-xml-rpc/</link>
       <pubDate>Wed, 18 Aug 2021 13:54:42 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/disable-xml-rpc/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;h2 id=&#34;前言&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;前言&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;小站迁移到 WordPress 已经有几天时间了。最近查看 Wordfence 拦截日志时发现有人在不断访问 xmlrpc.php，经过查找资料了解到有安全风险，可能会被暴力破解。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/disable-xml-rpc/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
+    &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E8%A8%80&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;小站迁移到 WordPress 已经有几天时间了。最近查看 Wordfence 拦截日志时发现有人在不断访问 xmlrpc.php，经过查找资料了解到有安全风险，可能会被暴力破解。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/disable-xml-rpc/cover.webp" />
     </item>
+    
     <item>
       <title>修改默认端口</title>
-      <link>https://blog.wenyi.org/posts/modify-the-default-port/</link>
+      <link>https://ejhu.com/posts/modify-the-default-port/</link>
       <pubDate>Mon, 29 Mar 2021 21:50:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/modify-the-default-port/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;之前发现总有一些陌生的 IP 尝试连接主要端口，怀疑是暴力破解攻击，尤其是 22 端口。使用默认端口不安全，容易被攻破，需要修改默认端口。&lt;/p&gt;&#xA;&lt;h2 id=&#34;修改宝塔面板端口&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;修改宝塔面板端口&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e4%bf%ae%e6%94%b9%e5%ae%9d%e5%a1%94%e9%9d%a2%e6%9d%bf%e7%ab%af%e5%8f%a3&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;默认通过 8888 端口访问宝塔面板。在&lt;strong&gt;面板设置&lt;/strong&gt;中修改端口范围 8888-65535，提前在服务器控制台放行新端口。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/modify-the-default-port/</guid>
+      <description>&lt;p&gt;之前发现总有一些陌生的 IP 尝试连接主要端口，怀疑是暴力破解攻击，尤其是 22 端口。使用默认端口不安全，容易被攻破，需要修改默认端口。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/modify-the-default-port/cover.webp" />
     </item>
+    
     <item>
       <title>使用对象存储备份网站数据</title>
-      <link>https://blog.wenyi.org/posts/cos-backup-website/</link>
+      <link>https://ejhu.com/posts/cos-backup-website/</link>
       <pubDate>Sun, 21 Mar 2021 14:59:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/cos-backup-website/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;最近我给小站进行安全方面的设置，防止小站被攻破，数据被破坏。以前只是把数据每天备份到服务器本地磁盘，现在觉得不安全，应该在其他地方也要备份。&lt;/p&gt;&#xA;&lt;h2 id=&#34;安装插件&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;安装插件&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e5%ae%89%e8%a3%85%e6%8f%92%e4%bb%b6&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;在宝塔面板&lt;strong&gt;软件商店——宝塔插件&lt;/strong&gt;中选择插件下载，我选的是&lt;strong&gt;腾讯云 COS&lt;/strong&gt;，需要在腾讯云开通对象存储（COS）服务才能使用。&#xA;腾讯云对象存储 COS：&lt;a href=&#34;https://cloud.tencent.com/product/cos&#34;target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;https://cloud.tencent.com/product/cos&lt;/a&gt;&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/cos-backup-website/</guid>
+      <description>&lt;p&gt;最近我给小站进行安全方面的设置，防止小站被攻破，数据被破坏。以前只是把数据每天备份到服务器本地磁盘，现在觉得不安全，应该在其他地方也要备份。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/cos-backup-website/cover.webp" />
     </item>
+    
   </channel>
 </rss>

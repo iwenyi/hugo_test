@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Domain - 标签 - Wenyi&#39;s Blog</title>
-    <link>https://blog.wenyi.org/tags/domain/</link>
-    <description>Wenyi&#39;s Blog</description>
-    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Wed, 14 Jul 2021 13:32:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.wenyi.org/tags/domain/index.xml" rel="self" type="application/rss+xml" />
+    <title>Domain on Wenyi&#39;s Blog</title>
+    <link>https://ejhu.com/tags/domain/</link>
+    <description>Recent content in Domain on Wenyi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2020-2025 Wenyi</copyright>
+    <lastBuildDate>Wed, 14 Jul 2021 13:32:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/domain/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>域名从阿里云转入到腾讯云</title>
-      <link>https://blog.wenyi.org/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</link>
+      <link>https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</link>
       <pubDate>Wed, 14 Jul 2021 13:32:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
+      
+      <guid>https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</guid>
       <description>&lt;p&gt;小站的域名以前在阿里云，现在转入到腾讯云了。之前给域名续费时，发现腾讯云域名价格比阿里云便宜一点，转入需要 48 元，而且小站的服务器是腾讯云的，放在一起方便管理。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/cover.webp" />
     </item>
+    
     <item>
       <title>网站状态页失效</title>
-      <link>https://blog.wenyi.org/posts/status-page-invalidated/</link>
+      <link>https://ejhu.com/posts/status-page-invalidated/</link>
       <pubDate>Sun, 16 May 2021 20:47:00 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/status-page-invalidated/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;p&gt;最近没时间看小站，今天登录发现小站的监控页面出错了，到底是发生了什么让监控页面出错了呢？&lt;/p&gt;&#xA;&lt;p&gt;后来在收件箱发现了一封来自 UptimeRobot 的未读邮件，&lt;strong&gt;状态页面自定义域名需要升级到收费版本&lt;/strong&gt;。&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/status-page-invalidated/</guid>
+      <description>&lt;p&gt;最近没时间看小站，今天登录发现小站的监控页面出错了，到底是发生了什么让监控页面出错了呢？&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/status-page-invalidated/cover.webp" />
     </item>
+    
   </channel>
 </rss>

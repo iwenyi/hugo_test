@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on Wenyi&#39;s Blog</title>
+    <link>https://ejhu.com/featured/</link>
+    <description>Recent content in Featured on Wenyi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2020-2025 Wenyi</copyright>
+    <lastBuildDate>Tue, 02 Nov 2021 15:00:18 +0000</lastBuildDate><atom:link href="https://ejhu.com/featured/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>安装 Windows 11 安卓子系统</title>
+      <link>https://ejhu.com/posts/installing-the-windows11-android-subsystem/</link>
+      <pubDate>Tue, 02 Nov 2021 15:00:18 +0000</pubDate>
+      
+      <guid>https://ejhu.com/posts/installing-the-windows11-android-subsystem/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;准备 
+    &lt;div id=&#34;%E5%87%86%E5%A4%87&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%87%86%E5%A4%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;wp-block-zibllblock-alert alert-dismissible fade in&#34;&gt;
+  &lt;div class=&#34;alert jb-yellow&#34; data-isclose=&#34;&#34; role=&#34;alert&#34;&gt;
+    注意：&lt;br /&gt;需要已经加入 Windows 预览体验计划，并且在预览体验成员设置选择 &lt;strong&gt;Beta 渠道。&lt;/strong&gt;Windows 企业版、专业版或教育版可以开启 Hyper-V，Windows 家庭版没有此项功能。
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;1.在&lt;strong&gt;设置——时间和语言——语言 &amp;amp; 区域——区域&lt;/strong&gt;，把「&lt;strong&gt;国家或地区&lt;/strong&gt;」改为美国。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/installing-the-windows11-android-subsystem/cover.webp" />
+    </item>
+    
+    <item>
+      <title>升级到 Windows 11</title>
+      <link>https://ejhu.com/posts/upgrade-to-windows11/</link>
+      <pubDate>Wed, 30 Jun 2021 11:05:00 +0000</pubDate>
+      
+      <guid>https://ejhu.com/posts/upgrade-to-windows11/</guid>
+      <description>&lt;p&gt;今天发现有些网友已经升级到 Windows 11 了，看起来很好看，我也要尝尝鲜。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/upgrade-to-windows11/cover.webp" />
+    </item>
+    
+    <item>
+      <title>检查电脑能否升级到 Windows 11</title>
+      <link>https://ejhu.com/posts/preparing-for-the-upgrade-to-windows11/</link>
+      <pubDate>Fri, 25 Jun 2021 06:06:00 +0000</pubDate>
+      
+      <guid>https://ejhu.com/posts/preparing-for-the-upgrade-to-windows11/</guid>
+      <description>&lt;p&gt;今天看到网上消息说 Windows 11 就要来了，很期待我的电脑能升级到新系统。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/preparing-for-the-upgrade-to-windows11/cover.webp" />
+    </item>
+    
+    <item>
+      <title>jsDelivr 加速 Github 资源</title>
+      <link>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</link>
+      <pubDate>Sun, 06 Jun 2021 14:31:00 +0000</pubDate>
+      
+      <guid>https://ejhu.com/posts/jsdelivr-accelerated-github-resources/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
+    &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BB%8B%E7%BB%8D&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;CDN 的全称是 Content Delivery Network，即&lt;a href=&#34;https://baike.baidu.com/item/%E5%86%85%E5%AE%B9%E5%88%86%E5%8F%91%E7%BD%91%E7%BB%9C/4034265&#34; target=&#34;_blank&#34;&gt;内容分发网络&lt;/a&gt;。CDN 是构建在现有网络基础之上的智能虚拟网络，依靠部署在各地的边缘服务器，通过中心平台的负载均衡、内容分发、调度等功能模块，使用户就近获取所需内容，降低网络拥塞，提高用户访问响应速度和命中率。CDN 的关键技术主要有内容存储和分发技术。&lt;a href=&#34;https://baike.baidu.com/item/CDN&#34; target=&#34;_blank&#34;&gt;（百度百科）&lt;/a&gt;&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/jsdelivr-accelerated-github-resources/cover.webp" />
+    </item>
+    
+    <item>
+      <title>Firefox 翻译扩展</title>
+      <link>https://ejhu.com/posts/firefox-translation-extension/</link>
+      <pubDate>Tue, 09 Mar 2021 05:58:00 +0000</pubDate>
+      
+      <guid>https://ejhu.com/posts/firefox-translation-extension/</guid>
+      <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/firefox-translation-extension/cover.webp" />
+    </item>
+    
+  </channel>
+</rss>

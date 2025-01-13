@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hexo - 标签 - Wenyi&#39;s Blog</title>
-    <link>https://blog.wenyi.org/tags/hexo/</link>
-    <description>Wenyi&#39;s Blog</description>
-    <generator>Hugo 0.139.3 &amp; FixIt v0.3.16</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Sep 2021 14:05:09 +0000</lastBuildDate>
-    <atom:link href="https://blog.wenyi.org/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    <title>Hexo on Wenyi&#39;s Blog</title>
+    <link>https://ejhu.com/tags/hexo/</link>
+    <description>Recent content in Hexo on Wenyi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2020-2025 Wenyi</copyright>
+    <lastBuildDate>Sat, 04 Sep 2021 14:05:09 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Hexo 点击文章变成了下载</title>
-      <link>https://blog.wenyi.org/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
+      <link>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
       <pubDate>Sat, 04 Sep 2021 14:05:09 +0000</pubDate>
-      <guid>https://blog.wenyi.org/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
-      <category domain="https://blog.wenyi.org/categories/%E5%BB%BA%E7%AB%99/">建站</category>
-      <description>&lt;h3 id=&#34;问题&#34; class=&#34;heading-element&#34;&gt;&lt;span&gt;问题&lt;/span&gt;&#xD;&#xA;  &lt;a href=&#34;#%e9%97%ae%e9%a2%98&#34; class=&#34;heading-mark&#34;&gt;&#xD;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;最近我在修改 Hexo 的时候遇到了一个问题，部署到 Github 后访问显示这样：&lt;/p&gt;</description>
+      
+      <guid>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;问题 
+    &lt;div id=&#34;%E9%97%AE%E9%A2%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%97%AE%E9%A2%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;最近我在修改 Hexo 的时候遇到了一个问题，部署到 Github 后访问显示这样：&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/cover.webp" />
     </item>
+    
   </channel>
 </rss>
