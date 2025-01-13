@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/tools/</link>
+    <link>http://ejhu.com/tags/tools/</link>
     <description>Recent content in Tools on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Tue, 07 Dec 2021 04:11:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 04:11:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>让任务栏有趣起来的程序：RunCat</title>
-      <link>https://ejhu.com/posts/runcat/</link>
+      <link>http://ejhu.com/posts/runcat/</link>
       <pubDate>Tue, 07 Dec 2021 04:11:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/runcat/</guid>
+      <guid>http://ejhu.com/posts/runcat/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;介绍 
     &lt;div id=&#34;%E4%BB%8B%E7%BB%8D&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -26,25 +26,25 @@
     
 &lt;/h2&gt;
 &lt;p&gt;最近在 Github 上发现一个有趣的程序，名字叫做 &lt;strong&gt;RunCat&lt;/strong&gt;。安装后会在任务栏显示一只奔跑的小猫，通过小猫奔跑的速度来判断 CPU 使用率，小猫奔跑的速度越快，CPU 使用率就越高。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/runcat/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/runcat/cover.webp" />
     </item>
     
     <item>
       <title>网站状态页失效</title>
-      <link>https://ejhu.com/posts/status-page-invalidated/</link>
+      <link>http://ejhu.com/posts/status-page-invalidated/</link>
       <pubDate>Sun, 16 May 2021 20:47:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/status-page-invalidated/</guid>
+      <guid>http://ejhu.com/posts/status-page-invalidated/</guid>
       <description>&lt;p&gt;最近没时间看小站，今天登录发现小站的监控页面出错了，到底是发生了什么让监控页面出错了呢？&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/status-page-invalidated/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/status-page-invalidated/cover.webp" />
     </item>
     
     <item>
       <title>天气信息 API 错误</title>
-      <link>https://ejhu.com/posts/weather-api-error/</link>
+      <link>http://ejhu.com/posts/weather-api-error/</link>
       <pubDate>Mon, 05 Apr 2021 05:06:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/weather-api-error/</guid>
+      <guid>http://ejhu.com/posts/weather-api-error/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;起因 
     &lt;div id=&#34;%E8%B5%B7%E5%9B%A0&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -56,15 +56,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;前几天发现小站左边栏的天气信息错误，开始以为插件出问题了，后来看了其他使用这个插件的网站没有问题。既然不是插件的原因，那就看看是不是 API 的问题。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/weather-api-error/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/weather-api-error/cover.webp" />
     </item>
     
     <item>
       <title>Uptime Robot 免费的网站状态监控工具</title>
-      <link>https://ejhu.com/posts/uptime-robot/</link>
+      <link>http://ejhu.com/posts/uptime-robot/</link>
       <pubDate>Thu, 18 Mar 2021 09:37:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/uptime-robot/</guid>
+      <guid>http://ejhu.com/posts/uptime-robot/</guid>
       <description>&lt;p&gt;前天我给小站添加了用 &lt;strong&gt;Uptime Robot&lt;/strong&gt; 创建的网站状态页面。&lt;/p&gt;
 &lt;p&gt;本站状态页：&lt;a href=&#34;https://stats.uptimerobot.com/n6oMYHGBK6&#34; target=&#34;_blank&#34;&gt;https://stats.uptimerobot.com/n6oMYHGBK6&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -77,13 +77,13 @@
         /posts/uptime-robot/1_hu12359339042346519417.webp 660w,
         /posts/uptime-robot/1_hu5819969945666281774.webp 1024w,
         /posts/uptime-robot/1_hu10892982264006459253.webp 2x&#34;
-        src=&#34;https://ejhu.com/posts/uptime-robot/1_hu12359339042346519417.webp&#34;
+        src=&#34;http://ejhu.com/posts/uptime-robot/1_hu12359339042346519417.webp&#34;
         alt=&#34;EJHU 状态页&#34;
       /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/uptime-robot/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/uptime-robot/cover.webp" />
     </item>
     
   </channel>

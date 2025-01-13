@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Browser on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/browser/</link>
+    <link>http://ejhu.com/tags/browser/</link>
     <description>Recent content in Browser on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Tue, 09 Mar 2021 05:58:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/browser/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Mar 2021 05:58:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/browser/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Firefox 翻译扩展</title>
-      <link>https://ejhu.com/posts/firefox-translation-extension/</link>
+      <link>http://ejhu.com/posts/firefox-translation-extension/</link>
       <pubDate>Tue, 09 Mar 2021 05:58:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/firefox-translation-extension/</guid>
+      <guid>http://ejhu.com/posts/firefox-translation-extension/</guid>
       <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/firefox-translation-extension/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/firefox-translation-extension/cover.webp" />
     </item>
     
     <item>
       <title>Firefox 翻译扩展</title>
-      <link>https://ejhu.com/posts/firefox-translation-extension/</link>
+      <link>http://ejhu.com/posts/firefox-translation-extension/</link>
       <pubDate>Tue, 09 Mar 2021 05:58:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/firefox-translation-extension/</guid>
+      <guid>http://ejhu.com/posts/firefox-translation-extension/</guid>
       <description>&lt;p&gt;最近又换回 Firefox 了，现在 Firefox 为主，Edge 为辅。大部分网页能通过 Firefox 打开，只有个别的网站需要 Chromium 内核或 IE 浏览器才能打开时换用 Edge 或 IE。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/firefox-translation-extension/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/firefox-translation-extension/cover.webp" />
     </item>
     
   </channel>

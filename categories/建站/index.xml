@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>建站 on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/categories/%E5%BB%BA%E7%AB%99/</link>
+    <link>http://ejhu.com/categories/%E5%BB%BA%E7%AB%99/</link>
     <description>Recent content in 建站 on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Sun, 26 Dec 2021 12:31:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 12:31:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/categories/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>缓解 WordPress 文章 ID 不连续问题</title>
-      <link>https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</link>
+      <link>http://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</link>
       <pubDate>Sun, 26 Dec 2021 12:31:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</guid>
+      <guid>http://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
     &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -26,15 +26,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;最近浏览小站时，发现最新的一篇文章的 ID 已经是 441 了，小站总共才 30 多篇文章。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/wordpress-post-id-discontinuity-issue/cover.webp" />
     </item>
     
     <item>
       <title>Hexo 点击文章变成了下载</title>
-      <link>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
+      <link>http://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</link>
       <pubDate>Sat, 04 Sep 2021 14:05:09 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
+      <guid>http://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;问题 
     &lt;div id=&#34;%E9%97%AE%E9%A2%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -46,15 +46,15 @@
     
 &lt;/h3&gt;
 &lt;p&gt;最近我在修改 Hexo 的时候遇到了一个问题，部署到 Github 后访问显示这样：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/hexo-redirecting-articles-has-turned-into-downloads/cover.webp" />
     </item>
     
     <item>
       <title>禁用 XML-RPC 服务</title>
-      <link>https://ejhu.com/posts/disable-xml-rpc/</link>
+      <link>http://ejhu.com/posts/disable-xml-rpc/</link>
       <pubDate>Wed, 18 Aug 2021 13:54:42 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/disable-xml-rpc/</guid>
+      <guid>http://ejhu.com/posts/disable-xml-rpc/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
     &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -66,15 +66,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;小站迁移到 WordPress 已经有几天时间了。最近查看 Wordfence 拦截日志时发现有人在不断访问 xmlrpc.php，经过查找资料了解到有安全风险，可能会被暴力破解。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/disable-xml-rpc/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/disable-xml-rpc/cover.webp" />
     </item>
     
     <item>
       <title>HTTPS 访问出现混合内容</title>
-      <link>https://ejhu.com/posts/https-mixed-content/</link>
+      <link>http://ejhu.com/posts/https-mixed-content/</link>
       <pubDate>Sun, 01 Aug 2021 15:10:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/https-mixed-content/</guid>
+      <guid>http://ejhu.com/posts/https-mixed-content/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
     &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -86,55 +86,55 @@
     
 &lt;/h2&gt;
 &lt;p&gt;下午的时候看到了 MySSL 的提醒邮件，证书出现异常，也就是 443 端口连接异常。开始以为是服务器出现问题，因为服务器配置比较低，前几次重启服务器后恢复运行。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/https-mixed-content/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/https-mixed-content/cover.webp" />
     </item>
     
     <item>
       <title>更换小站 Logo 和 Favicon</title>
-      <link>https://ejhu.com/posts/change-logo-and-favicon/</link>
+      <link>http://ejhu.com/posts/change-logo-and-favicon/</link>
       <pubDate>Sun, 18 Jul 2021 13:06:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/change-logo-and-favicon/</guid>
+      <guid>http://ejhu.com/posts/change-logo-and-favicon/</guid>
       <description>&lt;p&gt;前几天给小站更换 Logo 和 Favicon，以前的 Logo 和 Favicon 是用同一张图片制作的。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/change-logo-and-favicon/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/change-logo-and-favicon/cover.webp" />
     </item>
     
     <item>
       <title>域名从阿里云转入到腾讯云</title>
-      <link>https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</link>
+      <link>http://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</link>
       <pubDate>Wed, 14 Jul 2021 13:32:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</guid>
+      <guid>http://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/</guid>
       <description>&lt;p&gt;小站的域名以前在阿里云，现在转入到腾讯云了。之前给域名续费时，发现腾讯云域名价格比阿里云便宜一点，转入需要 48 元，而且小站的服务器是腾讯云的，放在一起方便管理。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/domain-name-transfer-from-alicloud-to-tencentcloud/cover.webp" />
     </item>
     
     <item>
       <title>Typecho 评论/时光机的时间格式</title>
-      <link>https://ejhu.com/posts/typecho-time-format/</link>
+      <link>http://ejhu.com/posts/typecho-time-format/</link>
       <pubDate>Thu, 03 Jun 2021 21:53:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/typecho-time-format/</guid>
+      <guid>http://ejhu.com/posts/typecho-time-format/</guid>
       <description>&lt;p&gt;&lt;code&gt;&amp;lt;span style=&amp;quot;color: #ff0000;&amp;quot;&amp;gt;&lt;/code&gt;最近修改了小站评论日期格式，记录一下。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/typecho-time-format/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/typecho-time-format/cover.webp" />
     </item>
     
     <item>
       <title>网站状态页失效</title>
-      <link>https://ejhu.com/posts/status-page-invalidated/</link>
+      <link>http://ejhu.com/posts/status-page-invalidated/</link>
       <pubDate>Sun, 16 May 2021 20:47:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/status-page-invalidated/</guid>
+      <guid>http://ejhu.com/posts/status-page-invalidated/</guid>
       <description>&lt;p&gt;最近没时间看小站，今天登录发现小站的监控页面出错了，到底是发生了什么让监控页面出错了呢？&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/status-page-invalidated/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/status-page-invalidated/cover.webp" />
     </item>
     
     <item>
       <title>天气信息 API 错误</title>
-      <link>https://ejhu.com/posts/weather-api-error/</link>
+      <link>http://ejhu.com/posts/weather-api-error/</link>
       <pubDate>Mon, 05 Apr 2021 05:06:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/weather-api-error/</guid>
+      <guid>http://ejhu.com/posts/weather-api-error/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;起因 
     &lt;div id=&#34;%E8%B5%B7%E5%9B%A0&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -146,35 +146,35 @@
     
 &lt;/h2&gt;
 &lt;p&gt;前几天发现小站左边栏的天气信息错误，开始以为插件出问题了，后来看了其他使用这个插件的网站没有问题。既然不是插件的原因，那就看看是不是 API 的问题。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/weather-api-error/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/weather-api-error/cover.webp" />
     </item>
     
     <item>
       <title>修改默认端口</title>
-      <link>https://ejhu.com/posts/modify-the-default-port/</link>
+      <link>http://ejhu.com/posts/modify-the-default-port/</link>
       <pubDate>Mon, 29 Mar 2021 21:50:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/modify-the-default-port/</guid>
+      <guid>http://ejhu.com/posts/modify-the-default-port/</guid>
       <description>&lt;p&gt;之前发现总有一些陌生的 IP 尝试连接主要端口，怀疑是暴力破解攻击，尤其是 22 端口。使用默认端口不安全，容易被攻破，需要修改默认端口。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/modify-the-default-port/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/modify-the-default-port/cover.webp" />
     </item>
     
     <item>
       <title>使用对象存储备份网站数据</title>
-      <link>https://ejhu.com/posts/cos-backup-website/</link>
+      <link>http://ejhu.com/posts/cos-backup-website/</link>
       <pubDate>Sun, 21 Mar 2021 14:59:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/cos-backup-website/</guid>
+      <guid>http://ejhu.com/posts/cos-backup-website/</guid>
       <description>&lt;p&gt;最近我给小站进行安全方面的设置，防止小站被攻破，数据被破坏。以前只是把数据每天备份到服务器本地磁盘，现在觉得不安全，应该在其他地方也要备份。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/cos-backup-website/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/cos-backup-website/cover.webp" />
     </item>
     
     <item>
       <title>Uptime Robot 免费的网站状态监控工具</title>
-      <link>https://ejhu.com/posts/uptime-robot/</link>
+      <link>http://ejhu.com/posts/uptime-robot/</link>
       <pubDate>Thu, 18 Mar 2021 09:37:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/uptime-robot/</guid>
+      <guid>http://ejhu.com/posts/uptime-robot/</guid>
       <description>&lt;p&gt;前天我给小站添加了用 &lt;strong&gt;Uptime Robot&lt;/strong&gt; 创建的网站状态页面。&lt;/p&gt;
 &lt;p&gt;本站状态页：&lt;a href=&#34;https://stats.uptimerobot.com/n6oMYHGBK6&#34; target=&#34;_blank&#34;&gt;https://stats.uptimerobot.com/n6oMYHGBK6&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
@@ -187,59 +187,59 @@
         /posts/uptime-robot/1_hu12359339042346519417.webp 660w,
         /posts/uptime-robot/1_hu5819969945666281774.webp 1024w,
         /posts/uptime-robot/1_hu10892982264006459253.webp 2x&#34;
-        src=&#34;https://ejhu.com/posts/uptime-robot/1_hu12359339042346519417.webp&#34;
+        src=&#34;http://ejhu.com/posts/uptime-robot/1_hu12359339042346519417.webp&#34;
         alt=&#34;EJHU 状态页&#34;
       /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/uptime-robot/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/uptime-robot/cover.webp" />
     </item>
     
     <item>
       <title>Gitalk 评论出错</title>
-      <link>https://ejhu.com/posts/gitalk-comment-error/</link>
+      <link>http://ejhu.com/posts/gitalk-comment-error/</link>
       <pubDate>Sat, 27 Feb 2021 04:31:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/gitalk-comment-error/</guid>
+      <guid>http://ejhu.com/posts/gitalk-comment-error/</guid>
       <description>&lt;p&gt;我昨天发现了一个问题，就是更改了用户名后 Gitalk 评论出错，无法加载评论（&lt;strong&gt;Error: Request failed with status code 403&lt;/strong&gt;）。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/gitalk-comment-error/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/gitalk-comment-error/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (4)</title>
-      <link>https://ejhu.com/posts/website-log-four/</link>
+      <link>http://ejhu.com/posts/website-log-four/</link>
       <pubDate>Wed, 17 Feb 2021 15:14:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-four/</guid>
+      <guid>http://ejhu.com/posts/website-log-four/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这是建站笔记第四篇文章。
 谈一下评论功能。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;网站搭建好后，可以添加评论系统与访客互动。我写文章用的是 Gridea，下面以&lt;strong&gt;Gridea+Gitalk&lt;/strong&gt; 为例搭建评论系统。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-four/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/website-log-four/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (3)</title>
-      <link>https://ejhu.com/posts/website-log-three/</link>
+      <link>http://ejhu.com/posts/website-log-three/</link>
       <pubDate>Wed, 10 Feb 2021 07:20:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-three/</guid>
+      <guid>http://ejhu.com/posts/website-log-three/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这是建站笔记第三篇文章。
 谈一下图床。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;图床是用来存放文章图片的，所以图床的访问速度是很重要的。第三方的免费图床不太稳定，万一哪天关停了服务，会很麻烦的。所以自己搭图床有保障，比较稳定。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-three/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/website-log-three/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (2)</title>
-      <link>https://ejhu.com/posts/website-log-two/</link>
+      <link>http://ejhu.com/posts/website-log-two/</link>
       <pubDate>Wed, 03 Feb 2021 23:19:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-two/</guid>
+      <guid>http://ejhu.com/posts/website-log-two/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这是建站笔记第二篇文章。
 谈一下写作工具。&lt;/p&gt;
@@ -257,32 +257,32 @@
     
 &lt;/h2&gt;
 &lt;p&gt;静态页面写作一般用的是 Markdown，Markdown 是一种轻量级标记语言。我现在用的是 &lt;strong&gt;Gridea&lt;/strong&gt;，&lt;strong&gt;Gridea 是一个静态博客写作客户端&lt;/strong&gt;，支持 Windows、Mac OS、Liunx。可以使用 Github Pages，Gitee Pages 和 Coding Pages 等服务来搭建自己的静态博客，然后就能使用它进行愉快的创作了。当然也可以把它当作一个纯粹的    markdown 写作工具，并且最新的版本也支持 Katex 公式。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-two/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/website-log-two/cover.webp" />
     </item>
     
     <item>
       <title>网页加载速度提升</title>
-      <link>https://ejhu.com/posts/webpage-speed-up/</link>
+      <link>http://ejhu.com/posts/webpage-speed-up/</link>
       <pubDate>Thu, 28 Jan 2021 15:01:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/webpage-speed-up/</guid>
+      <guid>http://ejhu.com/posts/webpage-speed-up/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;网站正在完善中&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt;现在本站为了&lt;strong&gt;提高访问速度，启动了双站点&lt;/strong&gt;。国内访问部署在 &lt;strong&gt;Coding&lt;/strong&gt;  上的站点，国外访问部署在 &lt;strong&gt;Github&lt;/strong&gt; 上的站点。&lt;code&gt;&amp;lt;/del&amp;gt;&lt;/code&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/webpage-speed-up/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/webpage-speed-up/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (1)</title>
-      <link>https://ejhu.com/posts/website-log-one/</link>
+      <link>http://ejhu.com/posts/website-log-one/</link>
       <pubDate>Fri, 01 Jan 2021 14:33:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-one/</guid>
+      <guid>http://ejhu.com/posts/website-log-one/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这是建站笔记第一篇文章。
 建网站需要有&lt;strong&gt;域名&lt;/strong&gt;和&lt;strong&gt;主机/空间/服务器&lt;/strong&gt;。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-one/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/website-log-one/cover.webp" />
     </item>
     
   </channel>

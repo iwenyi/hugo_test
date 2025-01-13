@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drive on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/drive/</link>
+    <link>http://ejhu.com/tags/drive/</link>
     <description>Recent content in Drive on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Thu, 17 Jun 2021 21:51:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/drive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Jun 2021 21:51:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/drive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>阿里云盘桌面端体验</title>
-      <link>https://ejhu.com/posts/alidrive-for-desktop/</link>
+      <link>http://ejhu.com/posts/alidrive-for-desktop/</link>
       <pubDate>Thu, 17 Jun 2021 21:51:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/alidrive-for-desktop/</guid>
+      <guid>http://ejhu.com/posts/alidrive-for-desktop/</guid>
       <description>&lt;p&gt;今天发现阿里云盘桌面端上线了。&lt;/p&gt;
 &lt;p&gt;
     &lt;figure&gt;
@@ -26,7 +26,7 @@
         /posts/alidrive-for-desktop/1_hu5887814768738751582.webp 660w,
         /posts/alidrive-for-desktop/1_hu14436105610293874623.webp 1024w,
         /posts/alidrive-for-desktop/1_hu12600653676709549913.webp 2x&#34;
-        src=&#34;https://ejhu.com/posts/alidrive-for-desktop/1_hu5887814768738751582.webp&#34;
+        src=&#34;http://ejhu.com/posts/alidrive-for-desktop/1_hu5887814768738751582.webp&#34;
         alt=&#34;阿里云盘官网&#34;
       /&gt;
       
@@ -45,7 +45,7 @@
     
 &lt;/h3&gt;
 &lt;p&gt;体验之后感觉功能比较简单，和网页版差不多，目前分享功能暂时不能使用。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/alidrive-for-desktop/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/alidrive-for-desktop/cover.webp" />
     </item>
     
   </channel>

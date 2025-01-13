@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual Machine on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/virtual-machine/</link>
+    <link>http://ejhu.com/tags/virtual-machine/</link>
     <description>Recent content in Virtual Machine on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Tue, 29 Mar 2022 13:30:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/virtual-machine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 13:30:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/virtual-machine/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>解决 VMware 虚拟机运行时 “内部错误” 问题</title>
-      <link>https://ejhu.com/posts/vmware-internal-errors/</link>
+      <link>http://ejhu.com/posts/vmware-internal-errors/</link>
       <pubDate>Tue, 29 Mar 2022 13:30:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/vmware-internal-errors/</guid>
+      <guid>http://ejhu.com/posts/vmware-internal-errors/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;起因 
     &lt;div id=&#34;%E8%B5%B7%E5%9B%A0&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -36,13 +36,13 @@
         /posts/vmware-internal-errors/1_hu17581762852679945649.webp 660w,
         /posts/vmware-internal-errors/1_hu11132588244314153281.webp 1024w,
         /posts/vmware-internal-errors/1_hu6192733007204546702.webp 2x&#34;
-        src=&#34;https://ejhu.com/posts/vmware-internal-errors/1_hu17581762852679945649.webp&#34;
+        src=&#34;http://ejhu.com/posts/vmware-internal-errors/1_hu17581762852679945649.webp&#34;
         alt=&#34;内部错误&#34;
       /&gt;
       
     &lt;/figure&gt;
 &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/vmware-internal-errors/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/vmware-internal-errors/cover.webp" />
     </item>
     
   </channel>

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gridea on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/gridea/</link>
+    <link>http://ejhu.com/tags/gridea/</link>
     <description>Recent content in Gridea on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Wed, 17 Feb 2021 15:14:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/gridea/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Feb 2021 15:14:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/gridea/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>建站笔记 (4)</title>
-      <link>https://ejhu.com/posts/website-log-four/</link>
+      <link>http://ejhu.com/posts/website-log-four/</link>
       <pubDate>Wed, 17 Feb 2021 15:14:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-four/</guid>
+      <guid>http://ejhu.com/posts/website-log-four/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这是建站笔记第四篇文章。
 谈一下评论功能。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;网站搭建好后，可以添加评论系统与访客互动。我写文章用的是 Gridea，下面以&lt;strong&gt;Gridea+Gitalk&lt;/strong&gt; 为例搭建评论系统。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-four/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/website-log-four/cover.webp" />
     </item>
     
     <item>
       <title>建站笔记 (2)</title>
-      <link>https://ejhu.com/posts/website-log-two/</link>
+      <link>http://ejhu.com/posts/website-log-two/</link>
       <pubDate>Wed, 03 Feb 2021 23:19:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/website-log-two/</guid>
+      <guid>http://ejhu.com/posts/website-log-two/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;这是建站笔记第二篇文章。
 谈一下写作工具。&lt;/p&gt;
@@ -46,7 +46,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;静态页面写作一般用的是 Markdown，Markdown 是一种轻量级标记语言。我现在用的是 &lt;strong&gt;Gridea&lt;/strong&gt;，&lt;strong&gt;Gridea 是一个静态博客写作客户端&lt;/strong&gt;，支持 Windows、Mac OS、Liunx。可以使用 Github Pages，Gitee Pages 和 Coding Pages 等服务来搭建自己的静态博客，然后就能使用它进行愉快的创作了。当然也可以把它当作一个纯粹的    markdown 写作工具，并且最新的版本也支持 Katex 公式。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/website-log-two/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/website-log-two/cover.webp" />
     </item>
     
   </channel>

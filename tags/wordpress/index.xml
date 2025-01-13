@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WordPress on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/wordpress/</link>
+    <link>http://ejhu.com/tags/wordpress/</link>
     <description>Recent content in WordPress on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Sun, 26 Dec 2021 12:31:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 12:31:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>缓解 WordPress 文章 ID 不连续问题</title>
-      <link>https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</link>
+      <link>http://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</link>
       <pubDate>Sun, 26 Dec 2021 12:31:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</guid>
+      <guid>http://ejhu.com/posts/wordpress-post-id-discontinuity-issue/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
     &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -26,15 +26,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;最近浏览小站时，发现最新的一篇文章的 ID 已经是 441 了，小站总共才 30 多篇文章。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/wordpress-post-id-discontinuity-issue/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/wordpress-post-id-discontinuity-issue/cover.webp" />
     </item>
     
     <item>
       <title>禁用 XML-RPC 服务</title>
-      <link>https://ejhu.com/posts/disable-xml-rpc/</link>
+      <link>http://ejhu.com/posts/disable-xml-rpc/</link>
       <pubDate>Wed, 18 Aug 2021 13:54:42 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/disable-xml-rpc/</guid>
+      <guid>http://ejhu.com/posts/disable-xml-rpc/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;前言 
     &lt;div id=&#34;%E5%89%8D%E8%A8%80&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -46,7 +46,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;小站迁移到 WordPress 已经有几天时间了。最近查看 Wordfence 拦截日志时发现有人在不断访问 xmlrpc.php，经过查找资料了解到有安全风险，可能会被暴力破解。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/disable-xml-rpc/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/disable-xml-rpc/cover.webp" />
     </item>
     
   </channel>

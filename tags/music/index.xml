@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Music on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/music/</link>
+    <link>http://ejhu.com/tags/music/</link>
     <description>Recent content in Music on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Sat, 29 May 2021 16:17:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 May 2021 16:17:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>性格主导色测试</title>
-      <link>https://ejhu.com/posts/personality-test/</link>
+      <link>http://ejhu.com/posts/personality-test/</link>
       <pubDate>Sat, 29 May 2021 16:17:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/personality-test/</guid>
+      <guid>http://ejhu.com/posts/personality-test/</guid>
       <description>&lt;p&gt;最近网易云性格主导色测试很火，我也跟风测一下玩玩。&lt;/p&gt;
 &lt;p&gt;除了在 APP 中搜「&lt;strong&gt;颜色&lt;/strong&gt;」，下面的链接也可以打开测试页面。
 &lt;a href=&#34;https://st.music.163.com/st-color-quiz/069&#34; target=&#34;_blank&#34;&gt;https://st.music.163.com/st-color-quiz/069&lt;/a&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/personality-test/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/personality-test/cover.webp" />
     </item>
     
   </channel>

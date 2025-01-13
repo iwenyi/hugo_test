@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>USB Flash Drive on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/usb-flash-drive/</link>
+    <link>http://ejhu.com/tags/usb-flash-drive/</link>
     <description>Recent content in USB Flash Drive on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Mon, 11 Jul 2022 13:51:05 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/usb-flash-drive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jul 2022 13:51:05 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/usb-flash-drive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>U 盘启动盘恢复为普通 U 盘</title>
-      <link>https://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</link>
+      <link>http://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</link>
       <pubDate>Mon, 11 Jul 2022 13:51:05 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</guid>
+      <guid>http://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/</guid>
       <description>&lt;p&gt;近使用 U 盘安装系统，制作系统启动盘。安装完系统后，发现 U 盘中 EFI 分区，需要把它删掉。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/restore-a-usb-boot-drive-to-a-regular-usb-flash-drive/cover.webp" />
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logo on Wenyi&#39;s Blog</title>
-    <link>https://ejhu.com/tags/logo/</link>
+    <link>http://ejhu.com/tags/logo/</link>
     <description>Recent content in Logo on Wenyi&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2020-2025 Wenyi</copyright>
-    <lastBuildDate>Sun, 18 Jul 2021 13:06:00 +0000</lastBuildDate><atom:link href="https://ejhu.com/tags/logo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 13:06:00 +0000</lastBuildDate><atom:link href="http://ejhu.com/tags/logo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>更换小站 Logo 和 Favicon</title>
-      <link>https://ejhu.com/posts/change-logo-and-favicon/</link>
+      <link>http://ejhu.com/posts/change-logo-and-favicon/</link>
       <pubDate>Sun, 18 Jul 2021 13:06:00 +0000</pubDate>
       
-      <guid>https://ejhu.com/posts/change-logo-and-favicon/</guid>
+      <guid>http://ejhu.com/posts/change-logo-and-favicon/</guid>
       <description>&lt;p&gt;前几天给小站更换 Logo 和 Favicon，以前的 Logo 和 Favicon 是用同一张图片制作的。&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ejhu.com/posts/change-logo-and-favicon/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://ejhu.com/posts/change-logo-and-favicon/cover.webp" />
     </item>
     
   </channel>
